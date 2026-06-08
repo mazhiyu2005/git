@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Course Teacher"
+  short_description: "Turn video courses into Obsidian-guided lessons"
+  default_prompt: "Use $video-course-teacher to teach me from this video course and keep my Obsidian progress updated."
