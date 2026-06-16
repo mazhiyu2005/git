@@ -1,0 +1,4 @@
+interface:
+  display_name: "赚钱项目顾问"
+  short_description: "选择、验证并执行合法可自动化的赚钱项目"
+  default_prompt: "Use $make-money to choose a legal China-market money-making direction that Codex can mostly automate, then create the first sales asset."
