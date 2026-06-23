@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cobra Cosmology"
+  short_description: "Navigate the Cobra cosmology archive structure."
+  default_prompt: "Use $cobra-cosmology to answer from the Cobra cosmology archive and identify the relevant source layer."

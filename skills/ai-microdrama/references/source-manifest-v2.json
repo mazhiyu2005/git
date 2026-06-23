@@ -1,0 +1,6424 @@
+[
+  {
+    "name": "土地——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\土地——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1612,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "塔——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\塔——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1594,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "墙——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\墙——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1589,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "小屋_棚屋_简陋的小屋——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\小屋_棚屋_简陋的小屋——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1637,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 198
+  },
+  {
+    "name": "小径_小道——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\小径_小道——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1616,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "尘土_灰尘_泥土_小道——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\尘土_灰尘_泥土_小道——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1645,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 198
+  },
+  {
+    "name": "山_山脉——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\山_山脉——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1609,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 191
+  },
+  {
+    "name": "山丘_小山_土堆——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\山丘_小山_土堆——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1637,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 195
+  },
+  {
+    "name": "岩石_石头——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\岩石_石头——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1622,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "建筑——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\建筑——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1598,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "房子_住宅——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\房子_住宅——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1621,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "摩天大楼——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\摩天大楼——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1612,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 191
+  },
+  {
+    "name": "树——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\树——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1595,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "桥——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\桥——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1595,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "棕榈树——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\棕榈树——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1617,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 190
+  },
+  {
+    "name": "植物——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\植物——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1600,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "水——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\水——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1600,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "沙漠_沙堆——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\沙漠_沙堆——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1624,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "河——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\河——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1595,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "海洋——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\海洋——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1606,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "湖——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\湖——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1598,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "瀑布——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\瀑布——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1609,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "田野_田地——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\田野_田地——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1623,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "花——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\花——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1588,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "草——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\草——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1596,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "道路——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\01-建筑环境\\道路——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1603,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "交通信号灯——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\交通信号灯——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1631,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "人行道——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\人行道——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1619,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 190
+  },
+  {
+    "name": "公交车_客车_游览巴士_双层巴士——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\公交车_客车_游览巴士_双层巴士——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1668,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 203
+  },
+  {
+    "name": "公告栏_布告栏——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\公告栏_布告栏——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1629,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 194
+  },
+  {
+    "name": "动物_牲畜——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\动物_牲畜——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1622,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "卡车_货车——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\卡车_货车——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1618,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "台阶——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\台阶——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1611,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "商标_品牌——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\商标_品牌——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1623,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "喷泉——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\喷泉——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1616,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "基础_底座——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\基础_底座——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1623,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "大船——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\大船——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1599,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "小型机车_摩托车——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\小型机车_摩托车——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1647,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 195
+  },
+  {
+    "name": "小型货车_面包车——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\小型货车_面包车——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1646,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 195
+  },
+  {
+    "name": "小船_轮船——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\小船_轮船——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1618,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "展位_小隔间_货摊——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\展位_小隔间_货摊——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1647,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 196
+  },
+  {
+    "name": "帐篷_避难所——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\帐篷_避难所——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1638,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 193
+  },
+  {
+    "name": "招牌_布告板——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\招牌_布告板——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1635,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 193
+  },
+  {
+    "name": "旗帜——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\旗帜——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1611,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "杆子_柱子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\杆子_柱子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1624,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "板凳_长椅——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\板凳_长椅——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1631,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "柱子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\柱子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1606,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "栅栏_围栏——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\栅栏_围栏——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1617,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "栏杆_轨道——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\栏杆_轨道——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1629,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "水箱_蓄水池——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\水箱_蓄水池——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1626,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 193
+  },
+  {
+    "name": "汽车——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\汽车——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1602,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "游泳池_游泳馆——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\游泳池_游泳馆——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1633,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 194
+  },
+  {
+    "name": "看台——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\看台——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1605,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "码头_栈桥_船坞——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\码头_栈桥_船坞——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1638,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 195
+  },
+  {
+    "name": "罩子_排气罩——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\罩子_排气罩——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1624,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 193
+  },
+  {
+    "name": "自行车——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\自行车——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1617,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 190
+  },
+  {
+    "name": "路灯——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\路灯——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1603,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "输送机_运输车——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\输送机_运输车——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1633,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 194
+  },
+  {
+    "name": "遮阳篷_遮阳伞——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\遮阳篷_遮阳伞——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1633,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 194
+  },
+  {
+    "name": "雕塑——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\雕塑——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1608,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "顶棚——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\顶棚——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1611,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "飞机——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\飞机——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1610,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "飞机跑道_T台——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\02-室外场景\\飞机跑道_T台——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1634,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 194
+  },
+  {
+    "name": "书——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\书——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1592,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "书架——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\书架——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1604,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "书桌_办公桌——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\书桌_办公桌——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1629,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 193
+  },
+  {
+    "name": "五斗橱_柜子_梳妆台_碗柜——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\五斗橱_柜子_梳妆台_碗柜——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1668,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 200
+  },
+  {
+    "name": "光_光源——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\光_光源——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1605,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 191
+  },
+  {
+    "name": "冰箱——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\冰箱——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1600,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "凳子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\凳子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1609,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "卫生间_便池_坑位_马桶——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\卫生间_便池_坑位_马桶——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1666,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 199
+  },
+  {
+    "name": "厨房中岛——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\厨房中岛——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1624,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 191
+  },
+  {
+    "name": "台球桌_斯诺克桌——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\台球桌_斯诺克桌——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1639,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 195
+  },
+  {
+    "name": "吊灯——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\吊灯——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1607,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "咖啡桌_鸡尾酒台——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\咖啡桌_鸡尾酒台——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1649,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 195
+  },
+  {
+    "name": "坐垫_垫子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\坐垫_垫子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1619,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "垃圾桶_烟灰缸——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\垃圾桶_烟灰缸——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1643,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 194
+  },
+  {
+    "name": "小毯子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\小毯子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1613,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 190
+  },
+  {
+    "name": "屏幕_投影屏幕——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\屏幕_投影屏幕——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1629,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 194
+  },
+  {
+    "name": "工作台面——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\工作台面——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1625,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 191
+  },
+  {
+    "name": "床——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\床——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1595,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "座位——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\座位——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1605,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "微波炉——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\微波炉——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1620,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 190
+  },
+  {
+    "name": "托盘——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\托盘——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1610,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "扶手椅_单人沙发——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\扶手椅_单人沙发——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1647,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 195
+  },
+  {
+    "name": "摇篮——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\摇篮——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1608,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "时钟_闹钟——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\时钟_闹钟——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1624,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "显示器屏幕_荧光屏显示器——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\显示器屏幕_荧光屏显示器——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1648,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 199
+  },
+  {
+    "name": "暖气片_散热器——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\暖气片_散热器——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1639,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 194
+  },
+  {
+    "name": "枕头——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\枕头——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1605,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "架子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\架子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1606,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "柜台_计数器——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\柜台_计数器——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1633,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 193
+  },
+  {
+    "name": "栏杆_扶手——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\栏杆_扶手——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1622,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "桌子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\桌子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1605,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "桶——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\桶——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1597,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "椅子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\椅子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1602,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "楼梯_台阶——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\楼梯_台阶——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1627,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "楼梯_楼梯间——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\楼梯_楼梯间——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1624,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 193
+  },
+  {
+    "name": "楼梯_踏步——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\楼梯_踏步——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1625,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "橱柜_储藏柜——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\橱柜_储藏柜——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1633,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 193
+  },
+  {
+    "name": "毛巾——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\毛巾——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1611,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "水槽_水池_洼地——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\水槽_水池_洼地——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1636,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 195
+  },
+  {
+    "name": "沙发——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\沙发——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1612,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "洗碗机——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\洗碗机——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1618,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 190
+  },
+  {
+    "name": "洗衣机——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\洗衣机——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1619,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 190
+  },
+  {
+    "name": "浴缸——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\浴缸——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1609,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "海报_张贴画——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\海报_张贴画——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1628,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 193
+  },
+  {
+    "name": "淋浴间_花洒——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\淋浴间_花洒——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1630,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 193
+  },
+  {
+    "name": "灯——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\灯——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1597,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "烤箱——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\烤箱——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1602,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "烹饪炉子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\烹饪炉子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1621,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 191
+  },
+  {
+    "name": "玩具——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\玩具——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1607,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "玻璃_玻璃杯_玻璃制品——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\玻璃_玻璃杯_玻璃制品——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1642,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 198
+  },
+  {
+    "name": "球——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\球——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1597,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "瓶子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\瓶子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1606,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "电脑_电脑设备——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\电脑_电脑设备——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1628,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 194
+  },
+  {
+    "name": "电视——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\电视——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1602,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "画_照片_图片——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\画_照片_图片——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1628,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 194
+  },
+  {
+    "name": "监视器_监控设备——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\监视器_监控设备——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1640,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 195
+  },
+  {
+    "name": "盘子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\盘子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1610,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "箱子_盒子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\箱子_盒子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1618,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "篮子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\篮子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1600,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "纱窗_屏幕——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\纱窗_屏幕——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1622,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "自动扶梯——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\自动扶梯——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1625,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 191
+  },
+  {
+    "name": "自助餐_餐具柜——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\自助餐_餐具柜——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1635,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 194
+  },
+  {
+    "name": "花瓶——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\花瓶——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1610,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "花盆——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\花盆——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1607,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "蒲团_坐垫——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\蒲团_坐垫——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1623,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "街机游戏机——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\街机游戏机——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1625,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "衣柜_壁橱——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\衣柜_壁橱——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1624,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "袋子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\袋子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1606,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "转椅——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\转椅——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1600,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "酒吧——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\酒吧——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1601,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "镜子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\镜子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1598,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "陈列_玻璃橱窗——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\陈列_玻璃橱窗——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1630,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 194
+  },
+  {
+    "name": "风扇_扇子——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\风扇_扇子——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1619,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "食物——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\03-室内家具\\食物——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1612,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "地板————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\04-室内地面\\地板————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1610,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 187
+  },
+  {
+    "name": "地毯_毛毯——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\04-室内地面\\地毯_毛毯——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1621,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "壁灯——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\05-室内墙面\\壁灯——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1607,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "壁炉——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\05-室内墙面\\壁炉——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1606,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "天花板———————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\05-室内墙面\\天花板———————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1617,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 191
+  },
+  {
+    "name": "玻璃_窗户——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\05-室内墙面\\玻璃_窗户——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1618,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "百叶窗_屏风——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\05-室内墙面\\百叶窗_屏风——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1632,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 193
+  },
+  {
+    "name": "窗帘——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\05-室内墙面\\窗帘——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1611,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 189
+  },
+  {
+    "name": "门_双开门——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\05-室内墙面\\门_双开门——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1624,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "人——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\06-人物\\人——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1594,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 188
+  },
+  {
+    "name": "服装_衣服——————言萧的AI画室bilibili免费分享.skm",
+    "rel": "04-SEG材质及语义说明表格\\06-人物\\服装_衣服——————言萧的AI画室bilibili免费分享.skm",
+    "ext": ".skm",
+    "bytes": 1620,
+    "members": [
+      "document.xml",
+      "documentProperties.xml",
+      "doc_thumbnail.png",
+      "references.xml"
+    ],
+    "chars": 192
+  },
+  {
+    "name": "ADE20K图表解释—B站言萧的AI画室.pdf",
+    "rel": "04-SEG材质及语义说明表格\\ADE20K图表解释—B站言萧的AI画室.pdf",
+    "ext": ".pdf",
+    "bytes": 815047,
+    "pages": 1,
+    "sampled_pages": 1,
+    "chars": 5870
+  },
+  {
+    "name": "SEG模版.skp",
+    "rel": "04-SEG材质及语义说明表格\\SEG模版.skp",
+    "ext": ".skp",
+    "bytes": 59482,
+    "type": "binary_asset"
+  },
+  {
+    "name": "SEG语义模版—低版本.skp",
+    "rel": "04-SEG材质及语义说明表格\\SEG语义模版—低版本.skp",
+    "ext": ".skp",
+    "bytes": 1353566,
+    "type": "binary_asset"
+  },
+  {
+    "name": "SEG（原版）.pdf",
+    "rel": "04-SEG材质及语义说明表格\\SEG（原版）.pdf",
+    "ext": ".pdf",
+    "bytes": 65553,
+    "pages": 1,
+    "sampled_pages": 1,
+    "chars": 9131
+  },
+  {
+    "name": "300+电影风格提示词.csv",
+    "rel": "300+电影风格提示词.csv",
+    "ext": ".csv",
+    "bytes": 11105,
+    "encoding": "gb18030",
+    "rows": 301,
+    "chars": 6573
+  },
+  {
+    "name": "3D人物，道具，场景提取.txt",
+    "rel": "3D人物，道具，场景提取.txt",
+    "ext": ".txt",
+    "bytes": 10597,
+    "encoding": "utf-8-sig",
+    "chars": 3882
+  },
+  {
+    "name": "40种镜头运镜 - 副本.txt",
+    "rel": "40种镜头运镜 - 副本.txt",
+    "ext": ".txt",
+    "bytes": 5657,
+    "encoding": "utf-8-sig",
+    "chars": 1938
+  },
+  {
+    "name": "5000+分镜画面提示词.xlsx",
+    "rel": "5000+分镜画面提示词.xlsx",
+    "ext": ".xlsx",
+    "bytes": 28887,
+    "sheets": [
+      "Sheet1"
+    ],
+    "sheet_count": 1,
+    "chars": 3193
+  },
+  {
+    "name": "Ai原创剧本.txt",
+    "rel": "Ai原创剧本.txt",
+    "ext": ".txt",
+    "bytes": 1493,
+    "encoding": "utf-8-sig",
+    "chars": 521
+  },
+  {
+    "name": "AI视频脚本分镜模板_共300条.xlsx",
+    "rel": "AI视频脚本分镜模板_共300条.xlsx",
+    "ext": ".xlsx",
+    "bytes": 19710,
+    "sheets": [
+      "Sheet1"
+    ],
+    "sheet_count": 1,
+    "chars": 4113
+  },
+  {
+    "name": "styles.csv",
+    "rel": "Comfyui起手式\\styles.csv",
+    "ext": ".csv",
+    "bytes": 15777,
+    "encoding": "utf-8-sig",
+    "rows": 19,
+    "chars": 15520
+  },
+  {
+    "name": "20+ MidJourney提示词书(1).pdf",
+    "rel": "MJ提示词整合包\\Midjourney\\20+ MidJourney提示词书(1).pdf",
+    "ext": ".pdf",
+    "bytes": 22731442,
+    "pages": 54,
+    "sampled_pages": 40,
+    "chars": 12390
+  },
+  {
+    "name": "Midjourney关键词(2).xlsx",
+    "rel": "MJ提示词整合包\\Midjourney\\Midjourney关键词(2).xlsx",
+    "ext": ".xlsx",
+    "bytes": 51096,
+    "sheets": [
+      "AI风格",
+      "三维关键词",
+      "插画关键词",
+      "品牌关键词"
+    ],
+    "sheet_count": 4,
+    "chars": 68
+  },
+  {
+    "name": "Midjourney描述关键词AI绘画B-midjourney（MJ）关键词（101个）.pdf",
+    "rel": "MJ提示词整合包\\Midjourney\\Midjourney描述关键词AI绘画B-midjourney（MJ）关键词（101个）.pdf",
+    "ext": ".pdf",
+    "bytes": 8396649,
+    "pages": 24,
+    "sampled_pages": 24,
+    "chars": 31963
+  },
+  {
+    "name": "Midjourney描述关键词AI绘画D-midjourney（MJ）关键词（91个）.xls",
+    "rel": "MJ提示词整合包\\Midjourney\\Midjourney描述关键词AI绘画D-midjourney（MJ）关键词（91个）.xls",
+    "ext": ".xls",
+    "bytes": 76473856,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "Midjourney描述关键词AI绘画提示词库mid关键词-神兽-翻译版（含图）.xlsx",
+    "rel": "MJ提示词整合包\\Midjourney\\Midjourney描述关键词AI绘画提示词库mid关键词-神兽-翻译版（含图）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 6427315,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 43606
+  },
+  {
+    "name": "Midjourney描述关键词AI绘画提示词库mid关键词-莫奈风格（含图）.xlsx",
+    "rel": "MJ提示词整合包\\Midjourney\\Midjourney描述关键词AI绘画提示词库mid关键词-莫奈风格（含图）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 15287260,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 10121
+  },
+  {
+    "name": "midjourney提示词中英双语图文词典(OCR).pdf",
+    "rel": "MJ提示词整合包\\Midjourney\\midjourney提示词中英双语图文词典(OCR).pdf",
+    "ext": ".pdf",
+    "bytes": 29200950,
+    "pages": 57,
+    "sampled_pages": 40,
+    "chars": 10419
+  },
+  {
+    "name": "Midjourney提示词启蒙全书(1).pdf",
+    "rel": "MJ提示词整合包\\Midjourney\\Midjourney提示词启蒙全书(1).pdf",
+    "ext": ".pdf",
+    "bytes": 45910098,
+    "pages": 150,
+    "sampled_pages": 20,
+    "chars": 428
+  },
+  {
+    "name": "mj关键词_咒语分享-Star_帅茴.pdf",
+    "rel": "MJ提示词整合包\\Midjourney\\mj关键词_咒语分享-Star_帅茴.pdf",
+    "ext": ".pdf",
+    "bytes": 2715850,
+    "pages": 23,
+    "sampled_pages": 23,
+    "chars": 33143
+  },
+  {
+    "name": "《AI绘画关键词》(6).pdf",
+    "rel": "MJ提示词整合包\\Midjourney\\《AI绘画关键词》(6).pdf",
+    "ext": ".pdf",
+    "bytes": 11401980,
+    "pages": 142,
+    "sampled_pages": 40,
+    "chars": 12202
+  },
+  {
+    "name": "【Midjourney教程】进阶教程-如何画系列插画(2).pdf",
+    "rel": "MJ提示词整合包\\Midjourney\\【Midjourney教程】进阶教程-如何画系列插画(2).pdf",
+    "ext": ".pdf",
+    "bytes": 2973581,
+    "pages": 34,
+    "sampled_pages": 34,
+    "chars": 7746
+  },
+  {
+    "name": "利用ChatGPT生成Midjourney提示符-星空-风景（188）.xlsx",
+    "rel": "MJ提示词整合包\\Midjourney\\利用ChatGPT生成Midjourney提示符-星空-风景（188）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 2280561,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 22179
+  },
+  {
+    "name": "利用ChatGPT生成Midjourney提示符-最热（207）.xlsx",
+    "rel": "MJ提示词整合包\\Midjourney\\利用ChatGPT生成Midjourney提示符-最热（207）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 2562692,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 20307
+  },
+  {
+    "name": "利用ChatGPT生成Midjourney提示符-花系列（136）.xlsx",
+    "rel": "MJ提示词整合包\\Midjourney\\利用ChatGPT生成Midjourney提示符-花系列（136）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 4259504,
+    "sheets": [
+      "Sheet1",
+      "Sheet2",
+      "Sheet3"
+    ],
+    "sheet_count": 3,
+    "chars": 21484
+  },
+  {
+    "name": "利用ChatGPT生成Midjourney提示符-赛克朋格（75）.xlsx",
+    "rel": "MJ提示词整合包\\Midjourney\\利用ChatGPT生成Midjourney提示符-赛克朋格（75）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 944967,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 29152
+  },
+  {
+    "name": "利用ChatGPT生成Midjourney提示符-风景-宫殿（290）.xlsx",
+    "rel": "MJ提示词整合包\\Midjourney\\利用ChatGPT生成Midjourney提示符-风景-宫殿（290）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 3662452,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 21143
+  },
+  {
+    "name": "Mid关键词.xlsx",
+    "rel": "MJ提示词整合包\\Midjourney关键词\\Mid关键词.xlsx",
+    "ext": ".xlsx",
+    "bytes": 9918371,
+    "sheets": [
+      "风格",
+      "构图",
+      "渲染",
+      "后缀",
+      "艺术家",
+      "同一人物",
+      "图片包",
+      "细节提示词",
+      "插件网址等",
+      "WpsReserved_CellImgList"
+    ],
+    "sheet_count": 10,
+    "chars": 14470
+  },
+  {
+    "name": "提示词 思维导图.pdf",
+    "rel": "MJ提示词整合包\\提示词分类查询+思维导图\\提示词 思维导图.pdf",
+    "ext": ".pdf",
+    "bytes": 185820,
+    "pages": 1,
+    "sampled_pages": 1,
+    "chars": 1100
+  },
+  {
+    "name": "提示词分类查询（健康版）.xls",
+    "rel": "MJ提示词整合包\\提示词分类查询+思维导图\\提示词分类查询（健康版）.xls",
+    "ext": ".xls",
+    "bytes": 202240,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "ai_short_drama_workflow.png",
+    "rel": "screenshots\\ai_short_drama_workflow.png",
+    "ext": ".png",
+    "bytes": 423959,
+    "type": "image_asset"
+  },
+  {
+    "name": "video_consistency_design_1.png",
+    "rel": "screenshots\\video_consistency_design_1.png",
+    "ext": ".png",
+    "bytes": 418809,
+    "type": "image_asset"
+  },
+  {
+    "name": "video_consistency_design_2.png",
+    "rel": "screenshots\\video_consistency_design_2.png",
+    "ext": ".png",
+    "bytes": 418809,
+    "type": "image_asset"
+  },
+  {
+    "name": "video_consistency_design_3.png",
+    "rel": "screenshots\\video_consistency_design_3.png",
+    "ext": ".png",
+    "bytes": 418809,
+    "type": "image_asset"
+  },
+  {
+    "name": "video_consistency_design_4.png",
+    "rel": "screenshots\\video_consistency_design_4.png",
+    "ext": ".png",
+    "bytes": 418809,
+    "type": "image_asset"
+  },
+  {
+    "name": "SD提示词书 书 - 1.镜头.pdf",
+    "rel": "SD提示词书 书 - 1.镜头.pdf",
+    "ext": ".pdf",
+    "bytes": 771155,
+    "pages": 56,
+    "sampled_pages": 40,
+    "chars": 8726
+  },
+  {
+    "name": "SD提示词书 书 - 2.人物.pdf",
+    "rel": "SD提示词书 书 - 2.人物.pdf",
+    "ext": ".pdf",
+    "bytes": 4971355,
+    "pages": 120,
+    "sampled_pages": 40,
+    "chars": 29488
+  },
+  {
+    "name": "SD提示词书 书 - 3.服饰.pdf",
+    "rel": "SD提示词书 书 - 3.服饰.pdf",
+    "ext": ".pdf",
+    "bytes": 865385,
+    "pages": 9,
+    "sampled_pages": 9,
+    "chars": 29804
+  },
+  {
+    "name": "Seedance 2.0 使用教程.pdf",
+    "rel": "Seedance 2.0 使用教程.pdf",
+    "ext": ".pdf",
+    "bytes": 35160415,
+    "pages": 16,
+    "sampled_pages": 16,
+    "chars": 10830
+  },
+  {
+    "name": "SKILL (1).md",
+    "rel": "SKILL (1).md",
+    "ext": ".md",
+    "bytes": 17386,
+    "encoding": "utf-8-sig",
+    "chars": 7291
+  },
+  {
+    "name": "Stable Diffusion 超全关键词.xlsx",
+    "rel": "Stable Diffusion 超全关键词.xlsx",
+    "ext": ".xlsx",
+    "bytes": 227466906,
+    "sheets": [
+      "起手及反咒",
+      "首页传送门",
+      "第 1 张表单回复",
+      "1.镜头",
+      "2.人物",
+      "3.服饰",
+      "4.表情",
+      "5.动作",
+      "6.场景道具",
+      "Danbooru Tag翻译",
+      "绘师  IP",
+      "风格",
+      "Tips",
+      "调色板",
+      "embeddingshypernets",
+      "还原向人物实例",
+      "采样算法一览",
+      "作画问答专用表格",
+      "常见模型一览",
+      "杂项",
+      "圖生圖",
+      "emb测试",
+      "emb测试（副本）",
+      "0.可以涩涩",
+      "NSFW模块",
+      "NSFW Tags"
+    ],
+    "sheet_count": 26,
+    "chars": 72302
+  },
+  {
+    "name": "《StableDiffusion提示词指南书》ByOpenArt(已译制) .pdf",
+    "rel": "《StableDiffusion提示词指南书》ByOpenArt(已译制) .pdf",
+    "ext": ".pdf",
+    "bytes": 20389773,
+    "pages": 105,
+    "sampled_pages": 40,
+    "chars": 30889
+  },
+  {
+    "name": "【绘画关键词大全1.06A】张芩潇.7z.002",
+    "rel": "【2023-05-07绘画关键词大全】\\【绘画关键词大全1.06A】张芩潇.7z.002",
+    "ext": ".002",
+    "bytes": 5215932,
+    "type": "archive_asset"
+  },
+  {
+    "name": "【ai绘画关键词大全1.01A】张芩潇.7z.001",
+    "rel": "【2023-05-07绘画关键词大全】\\旧版\\【绘画关键词大全1.01A】张芩潇\\【ai绘画关键词大全1.01A】张芩潇.7z.001",
+    "ext": ".001",
+    "bytes": 3072,
+    "type": "archive_asset"
+  },
+  {
+    "name": "【ai绘画关键词大全1.01A】张芩潇.7z.002",
+    "rel": "【2023-05-07绘画关键词大全】\\旧版\\【绘画关键词大全1.01A】张芩潇\\【ai绘画关键词大全1.01A】张芩潇.7z.002",
+    "ext": ".002",
+    "bytes": 1826,
+    "type": "archive_asset"
+  },
+  {
+    "name": "【绘画关键词大全1.02A】【●张芩潇 关键词 可视化预览整理】.7z.001",
+    "rel": "【2023-05-07绘画关键词大全】\\旧版\\【绘画关键词大全1.02A】张芩潇\\【绘画关键词大全1.02A】【●张芩潇 关键词 可视化预览整理】.7z.001",
+    "ext": ".001",
+    "bytes": 5242880,
+    "type": "archive_asset"
+  },
+  {
+    "name": "【绘画关键词大全1.02A】【●张芩潇 关键词 可视化预览整理】.7z.002",
+    "rel": "【2023-05-07绘画关键词大全】\\旧版\\【绘画关键词大全1.02A】张芩潇\\【绘画关键词大全1.02A】【●张芩潇 关键词 可视化预览整理】.7z.002",
+    "ext": ".002",
+    "bytes": 3205773,
+    "type": "archive_asset"
+  },
+  {
+    "name": "【绘画关键词大全1.03A】【●张芩潇 关键词 可视化预览整理】.7z.002",
+    "rel": "【2023-05-07绘画关键词大全】\\旧版\\【绘画关键词大全1.03A】【●张芩潇 关键词 可视化预览整理】.7z.002",
+    "ext": ".002",
+    "bytes": 4651179,
+    "type": "archive_asset"
+  },
+  {
+    "name": "【绘画关键词大全1.04A】【●张芩潇 关键词 可视化预览整理】.7z.001",
+    "rel": "【2023-05-07绘画关键词大全】\\旧版\\【绘画关键词大全1.04A】【●张芩潇 关键词 可视化预览整理】.7z.001",
+    "ext": ".001",
+    "bytes": 8388608,
+    "type": "archive_asset"
+  },
+  {
+    "name": "【绘画关键词大全1.04A】【●张芩潇 关键词 可视化预览整理】.7z.002",
+    "rel": "【2023-05-07绘画关键词大全】\\旧版\\【绘画关键词大全1.04A】【●张芩潇 关键词 可视化预览整理】.7z.002",
+    "ext": ".002",
+    "bytes": 6968867,
+    "type": "archive_asset"
+  },
+  {
+    "name": "【绘画关键词大全1.05A】【●张芩潇 关键词 可视化预览整理】.7z.002",
+    "rel": "【2023-05-07绘画关键词大全】\\旧版\\【绘画关键词大全1.05A】【●张芩潇 关键词 可视化预览整理】.7z.002",
+    "ext": ".002",
+    "bytes": 6799999,
+    "type": "archive_asset"
+  },
+  {
+    "name": "【6.0】仿真人物场景道具.txt",
+    "rel": "【6.0】仿真人物场景道具.txt",
+    "ext": ".txt",
+    "bytes": 12038,
+    "encoding": "utf-8-sig",
+    "chars": 4412
+  },
+  {
+    "name": "分镜头.txt",
+    "rel": "万相提示词指令\\万象提示词指令\\文本指令\\分镜头.txt",
+    "ext": ".txt",
+    "bytes": 731,
+    "encoding": "utf-8-sig",
+    "chars": 253
+  },
+  {
+    "name": "图生视频.txt",
+    "rel": "万相提示词指令\\万象提示词指令\\文本指令\\图生视频.txt",
+    "ext": ".txt",
+    "bytes": 2603,
+    "encoding": "utf-8-sig",
+    "chars": 885
+  },
+  {
+    "name": "场景一致大范围运镜-图生视频 .txt",
+    "rel": "万相提示词指令\\万象提示词指令\\文本指令\\场景一致大范围运镜-图生视频 .txt",
+    "ext": ".txt",
+    "bytes": 3011,
+    "encoding": "utf-8-sig",
+    "chars": 1026
+  },
+  {
+    "name": "场景一致大范围运镜-文生视频.txt",
+    "rel": "万相提示词指令\\万象提示词指令\\文本指令\\场景一致大范围运镜-文生视频.txt",
+    "ext": ".txt",
+    "bytes": 2861,
+    "encoding": "utf-8-sig",
+    "chars": 976
+  },
+  {
+    "name": "文生视频.txt",
+    "rel": "万相提示词指令\\万象提示词指令\\文本指令\\文生视频.txt",
+    "ext": ".txt",
+    "bytes": 3001,
+    "encoding": "utf-8-sig",
+    "chars": 1021
+  },
+  {
+    "name": "通义万相2.2AI生视频—使用指南（文字版）.pdf",
+    "rel": "万相提示词指令\\万象提示词指令\\通义万相2.2AI生视频—使用指南（文字版）.pdf",
+    "ext": ".pdf",
+    "bytes": 6366037,
+    "pages": 15,
+    "sampled_pages": 15,
+    "chars": 1733
+  },
+  {
+    "name": "通义万相2.2AI生视频—使用指南（纯文字版）.docx",
+    "rel": "万相提示词指令\\万象提示词指令\\通义万相2.2AI生视频—使用指南（纯文字版）.docx",
+    "ext": ".docx",
+    "bytes": 1150151,
+    "paragraphs": 42,
+    "tables": 19,
+    "chars": 17678
+  },
+  {
+    "name": "三视图提示词新.txt",
+    "rel": "三视图提示词新.txt",
+    "ext": ".txt",
+    "bytes": 2137,
+    "encoding": "utf-8-sig",
+    "chars": 771
+  },
+  {
+    "name": "人物，道具，场景提取 定稿.txt",
+    "rel": "人物，道具，场景提取 定稿.txt",
+    "ext": ".txt",
+    "bytes": 10597,
+    "encoding": "utf-8-sig",
+    "chars": 3882
+  },
+  {
+    "name": "仿真人分镜头提示词15秒.txt",
+    "rel": "仿真人分镜头提示词15秒.txt",
+    "ext": ".txt",
+    "bytes": 15530,
+    "encoding": "utf-8-sig",
+    "chars": 5703
+  },
+  {
+    "name": "优秀的脚本是什么样的.docx",
+    "rel": "优秀的脚本是什么样的.docx",
+    "ext": ".docx",
+    "bytes": 20790,
+    "paragraphs": 57,
+    "tables": 1,
+    "chars": 2327
+  },
+  {
+    "name": "修改文案.txt",
+    "rel": "修改文案.txt",
+    "ext": ".txt",
+    "bytes": 1567,
+    "encoding": "utf-8-sig",
+    "chars": 534
+  },
+  {
+    "name": "元素法典 第一卷——Novel AI 元素魔法全收录.docx",
+    "rel": "元素法典\\元素法典 第一卷——Novel AI 元素魔法全收录.docx",
+    "ext": ".docx",
+    "bytes": 32804652,
+    "paragraphs": 674,
+    "tables": 0,
+    "chars": 3511
+  },
+  {
+    "name": "关键词Tag分享特辑A.zip",
+    "rel": "关键词Tag分享特辑A.zip",
+    "ext": ".zip",
+    "bytes": 39254776,
+    "type": "archive_asset"
+  },
+  {
+    "name": "mid-夜空沙滩精选（87）.xls",
+    "rel": "关键词更新1\\mid-夜空沙滩精选（87）.xls",
+    "ext": ".xls",
+    "bytes": 80879616,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "mid-婚纱（135）.xlsx",
+    "rel": "关键词更新1\\mid-婚纱（135）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 149977115,
+    "sheets": [
+      "婚纱"
+    ],
+    "sheet_count": 1,
+    "chars": 4231
+  },
+  {
+    "name": "mid-星空-火烧云（152）.xlsx",
+    "rel": "关键词更新1\\mid-星空-火烧云（152）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 1934233,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 23601
+  },
+  {
+    "name": "mid-星空-风景（188）.xlsx",
+    "rel": "关键词更新1\\mid-星空-风景（188）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 2281419,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 21699
+  },
+  {
+    "name": "mid-最热（207）.xlsx",
+    "rel": "关键词更新1\\mid-最热（207）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 2563388,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 19828
+  },
+  {
+    "name": "mid-玫瑰-城堡（148）.xlsx",
+    "rel": "关键词更新1\\mid-玫瑰-城堡（148）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 1966708,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 21337
+  },
+  {
+    "name": "mid-生肖-新-小图（364）.xlsx",
+    "rel": "关键词更新1\\mid-生肖-新-小图（364）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 5027095,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 19694
+  },
+  {
+    "name": "mid-神兽-妖狐（108）.xlsx",
+    "rel": "关键词更新1\\mid-神兽-妖狐（108）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 4711657,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 21247
+  },
+  {
+    "name": "mid-神兽（37）.xlsx",
+    "rel": "关键词更新1\\mid-神兽（37）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 2044505,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 9465
+  },
+  {
+    "name": "mid-赛克朋格（75）.xlsx",
+    "rel": "关键词更新1\\mid-赛克朋格（75）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 945086,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 28477
+  },
+  {
+    "name": "mid-赛博朋克-人物（80）.xlsx",
+    "rel": "关键词更新1\\mid-赛博朋克-人物（80）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 3435115,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 26607
+  },
+  {
+    "name": "mid-风景-宫殿（290）.xlsx",
+    "rel": "关键词更新1\\mid-风景-宫殿（290）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 3663765,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 21143
+  },
+  {
+    "name": "11张图片+关键词.docx",
+    "rel": "关键词更新2\\11张图片+关键词.docx",
+    "ext": ".docx",
+    "bytes": 8176929,
+    "paragraphs": 75,
+    "tables": 0,
+    "chars": 2637
+  },
+  {
+    "name": "A-midjourney（MJ）关键词（61）.xls",
+    "rel": "关键词更新2\\A-midjourney（MJ）关键词（61）.xls",
+    "ext": ".xls",
+    "bytes": 47652352,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "B-midjourney（MJ）关键词（101）.pdf",
+    "rel": "关键词更新2\\B-midjourney（MJ）关键词（101）.pdf",
+    "ext": ".pdf",
+    "bytes": 8396649,
+    "pages": 24,
+    "sampled_pages": 24,
+    "chars": 31963
+  },
+  {
+    "name": "C-midjourney（MJ）关键词（100）.docx",
+    "rel": "关键词更新2\\C-midjourney（MJ）关键词（100）.docx",
+    "ext": ".docx",
+    "bytes": 1415792,
+    "paragraphs": 531,
+    "tables": 0,
+    "chars": 22278
+  },
+  {
+    "name": "D-midjourney（MJ）关键词（91）.xls",
+    "rel": "关键词更新2\\D-midjourney（MJ）关键词（91）.xls",
+    "ext": ".xls",
+    "bytes": 76474368,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "中英关键词（120）.xls",
+    "rel": "关键词更新2\\中英关键词（120）.xls",
+    "ext": ".xls",
+    "bytes": 117193728,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "中英关键词（219）.xls",
+    "rel": "关键词更新2\\中英关键词（219）.xls",
+    "ext": ".xls",
+    "bytes": 201111040,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "中英关键词（269）.xls",
+    "rel": "关键词更新2\\中英关键词（269）.xls",
+    "ext": ".xls",
+    "bytes": 217432064,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "中英关键词（27）.docx",
+    "rel": "关键词更新2\\中英关键词（27）.docx",
+    "ext": ".docx",
+    "bytes": 2037686,
+    "paragraphs": 2,
+    "tables": 1,
+    "chars": 8289
+  },
+  {
+    "name": "十二生肖关键词9.24.pdf",
+    "rel": "关键词更新2\\十二生肖关键词9.24.pdf",
+    "ext": ".pdf",
+    "bytes": 369574,
+    "pages": 7,
+    "sampled_pages": 7,
+    "chars": 3255
+  },
+  {
+    "name": "chests-专用-杂图（392）.xlsx",
+    "rel": "关键词更新3\\chests-专用-杂图（392）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 4754625,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 24015
+  },
+  {
+    "name": "mid-动物-金属铠甲-翻译版（57）.xlsx",
+    "rel": "关键词更新3\\mid-动物-金属铠甲-翻译版（57）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 2597823,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 17172
+  },
+  {
+    "name": "mid-抖音最新（249）.xlsx",
+    "rel": "关键词更新3\\mid-抖音最新（249）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 10874830,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 22850
+  },
+  {
+    "name": "mid-神兽-翻译版（137）.xlsx",
+    "rel": "关键词更新3\\mid-神兽-翻译版（137）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 6427315,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 43606
+  },
+  {
+    "name": "mid-莫奈风格（302）.xlsx",
+    "rel": "关键词更新3\\mid-莫奈风格（302）.xlsx",
+    "ext": ".xlsx",
+    "bytes": 15287260,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 10121
+  },
+  {
+    "name": "Midjourney 5关键词（202多个）.docx",
+    "rel": "关键词更新3\\Midjourney 5关键词（202多个）.docx",
+    "ext": ".docx",
+    "bytes": 19621447,
+    "paragraphs": 1191,
+    "tables": 0,
+    "chars": 50559
+  },
+  {
+    "name": "mid关键词-动物（62）.docx",
+    "rel": "关键词更新3\\mid关键词-动物（62）.docx",
+    "ext": ".docx",
+    "bytes": 8135729,
+    "paragraphs": 151,
+    "tables": 0,
+    "chars": 11137
+  },
+  {
+    "name": "100套风景+人物动物（101）.xls",
+    "rel": "关键词更新4\\100套风景+人物动物（101）.xls",
+    "ext": ".xls",
+    "bytes": 155195654,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "动物类（95）.xls",
+    "rel": "关键词更新4\\动物类（95）.xls",
+    "ext": ".xls",
+    "bytes": 451628032,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "十二生肖功夫系列 （12）.xls",
+    "rel": "关键词更新4\\十二生肖功夫系列 （12）.xls",
+    "ext": ".xls",
+    "bytes": 43613696,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "十二生肖发财系列（13）.xls",
+    "rel": "关键词更新4\\十二生肖发财系列（13）.xls",
+    "ext": ".xls",
+    "bytes": 49168384,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "十二生肖唐装系列（12）.xls",
+    "rel": "关键词更新4\\十二生肖唐装系列（12）.xls",
+    "ext": ".xls",
+    "bytes": 48778752,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "十二生肖汉服系列（12）.xls",
+    "rel": "关键词更新4\\十二生肖汉服系列（12）.xls",
+    "ext": ".xls",
+    "bytes": 44355584,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "十二生肖铠甲系列（12）.xls",
+    "rel": "关键词更新4\\十二生肖铠甲系列（12）.xls",
+    "ext": ".xls",
+    "bytes": 67237888,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "国庆狮子（2）.xls",
+    "rel": "关键词更新4\\国庆狮子（2）.xls",
+    "ext": ".xls",
+    "bytes": 4854272,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "婚纱系列（11）.xls",
+    "rel": "关键词更新4\\婚纱系列（11）.xls",
+    "ext": ".xls",
+    "bytes": 25355264,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "星空极光荧光海系列（9）.xls",
+    "rel": "关键词更新4\\星空极光荧光海系列（9）.xls",
+    "ext": ".xls",
+    "bytes": 49228288,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "热门狗熊岭系列（9）.xls",
+    "rel": "关键词更新4\\热门狗熊岭系列（9）.xls",
+    "ext": ".xls",
+    "bytes": 12043776,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "莲花（7）.xls",
+    "rel": "关键词更新4\\莲花（7）.xls",
+    "ext": ".xls",
+    "bytes": 16398848,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "23.03.30.xlsx",
+    "rel": "关键词更新5\\23.03.30.xlsx",
+    "ext": ".xlsx",
+    "bytes": 50581910,
+    "sheets": [
+      "Sheet1",
+      "Sheet2",
+      "Sheet3"
+    ],
+    "sheet_count": 3,
+    "chars": 3105
+  },
+  {
+    "name": "23.03.31.xlsx",
+    "rel": "关键词更新5\\23.03.31.xlsx",
+    "ext": ".xlsx",
+    "bytes": 25010930,
+    "sheets": [
+      "Sheet1",
+      "Sheet2",
+      "Sheet3"
+    ],
+    "sheet_count": 3,
+    "chars": 1976
+  },
+  {
+    "name": "23.04.9.xlsx",
+    "rel": "关键词更新5\\23.04.9.xlsx",
+    "ext": ".xlsx",
+    "bytes": 1027120,
+    "sheets": [
+      "Sheet1",
+      "Sheet2",
+      "Sheet3"
+    ],
+    "sheet_count": 3,
+    "chars": 1020
+  },
+  {
+    "name": "分幕、分镜脚本新.txt",
+    "rel": "分幕、分镜脚本新.txt",
+    "ext": ".txt",
+    "bytes": 12364,
+    "encoding": "utf-8-sig",
+    "chars": 4981
+  },
+  {
+    "name": "分幕提示词.txt",
+    "rel": "分幕提示词.txt",
+    "ext": ".txt",
+    "bytes": 4656,
+    "encoding": "utf-8-sig",
+    "chars": 1973
+  },
+  {
+    "name": "分镜提示词-智能体使用.txt",
+    "rel": "分镜提示词-智能体使用.txt",
+    "ext": ".txt",
+    "bytes": 4693,
+    "encoding": "utf-8-sig",
+    "chars": 1951
+  },
+  {
+    "name": "分镜提示词.txt",
+    "rel": "分镜提示词.txt",
+    "ext": ".txt",
+    "bytes": 16844,
+    "encoding": "utf-8-sig",
+    "chars": 6208
+  },
+  {
+    "name": "sd-dynamic-prompts.rar",
+    "rel": "动态提示词插件，附带我整理的提示词（插件7）\\动态提示词插件\\sd-dynamic-prompts.rar",
+    "ext": ".rar",
+    "bytes": 56004344,
+    "type": "archive_asset"
+  },
+  {
+    "name": "必看，别每次都不看,必须看.txt",
+    "rel": "动态提示词插件，附带我整理的提示词（插件7）\\动态提示词插件\\必看，别每次都不看,必须看.txt",
+    "ext": ".txt",
+    "bytes": 499,
+    "encoding": "utf-8-sig",
+    "chars": 237
+  },
+  {
+    "name": "a1111-sd-webui-tagcomplete.zip",
+    "rel": "动态提示词插件，附带我整理的提示词（插件7）\\提示词补全插件（一般秋叶版本内置有，就不用下这个了）\\a1111-sd-webui-tagcomplete.zip",
+    "ext": ".zip",
+    "bytes": 2015659,
+    "type": "archive_asset"
+  },
+  {
+    "name": "必看，别每次都不看,必须看.txt",
+    "rel": "动态提示词插件，附带我整理的提示词（插件7）\\提示词补全插件（一般秋叶版本内置有，就不用下这个了）\\必看，别每次都不看,必须看.txt",
+    "ext": ".txt",
+    "bytes": 499,
+    "encoding": "utf-8-sig",
+    "chars": 237
+  },
+  {
+    "name": "关键词35.xlsx",
+    "rel": "动物类\\关键词35.xlsx",
+    "ext": ".xlsx",
+    "bytes": 1857502,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 7751
+  },
+  {
+    "name": "关键词62.docx",
+    "rel": "动物类\\关键词62.docx",
+    "ext": ".docx",
+    "bytes": 8135729,
+    "paragraphs": 151,
+    "tables": 0,
+    "chars": 11137
+  },
+  {
+    "name": "关键词94.xls",
+    "rel": "动物类\\关键词94.xls",
+    "ext": ".xls",
+    "bytes": 451613184,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "关键词108.xlsx",
+    "rel": "动物类\\文件夹\\关键词108.xlsx",
+    "ext": ".xlsx",
+    "bytes": 4709533,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 18392
+  },
+  {
+    "name": "关键词364.xlsx",
+    "rel": "动物类\\文件夹\\关键词364.xlsx",
+    "ext": ".xlsx",
+    "bytes": 5025827,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 19374
+  },
+  {
+    "name": "关键词62.docx",
+    "rel": "动物类\\文件夹\\关键词62.docx",
+    "ext": ".docx",
+    "bytes": 8135729,
+    "paragraphs": 151,
+    "tables": 0,
+    "chars": 11137
+  },
+  {
+    "name": "十二生肖唐装系列.xls",
+    "rel": "十二生肖系列\\十二生肖唐装系列.xls",
+    "ext": ".xls",
+    "bytes": 48777728,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "十二生肖铠甲系列.xls",
+    "rel": "十二生肖系列\\十二生肖铠甲系列.xls",
+    "ext": ".xls",
+    "bytes": 67237888,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "关键词101.xls",
+    "rel": "多种类型系列\\关键词101.xls",
+    "ext": ".xls",
+    "bytes": 151187779,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "关键词108.xlsx",
+    "rel": "多种类型系列\\关键词108.xlsx",
+    "ext": ".xlsx",
+    "bytes": 4709498,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 18392
+  },
+  {
+    "name": "关键词114.docx",
+    "rel": "多种类型系列\\关键词114.docx",
+    "ext": ".docx",
+    "bytes": 29204127,
+    "error": "KeyError: \"There is no item named 'NULL' in the archive\"",
+    "chars": 0
+  },
+  {
+    "name": "关键词114.xlsx",
+    "rel": "多种类型系列\\关键词114.xlsx",
+    "ext": ".xlsx",
+    "bytes": 184501798,
+    "sheets": [
+      "关键词"
+    ],
+    "sheet_count": 1,
+    "chars": 3500
+  },
+  {
+    "name": "关键词135.xlsx",
+    "rel": "多种类型系列\\关键词135.xlsx",
+    "ext": ".xlsx",
+    "bytes": 149976590,
+    "sheets": [
+      "婚纱"
+    ],
+    "sheet_count": 1,
+    "chars": 4156
+  },
+  {
+    "name": "关键词137.xlsx",
+    "rel": "多种类型系列\\关键词137.xlsx",
+    "ext": ".xlsx",
+    "bytes": 6413268,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 32171
+  },
+  {
+    "name": "关键词141.docx",
+    "rel": "多种类型系列\\关键词141.docx",
+    "ext": ".docx",
+    "bytes": 18339947,
+    "paragraphs": 321,
+    "tables": 0,
+    "chars": 31227
+  },
+  {
+    "name": "关键词171.docx",
+    "rel": "多种类型系列\\关键词171.docx",
+    "ext": ".docx",
+    "bytes": 38349134,
+    "paragraphs": 373,
+    "tables": 0,
+    "chars": 47086
+  },
+  {
+    "name": "关键词19.xlsx",
+    "rel": "多种类型系列\\关键词19.xlsx",
+    "ext": ".xlsx",
+    "bytes": 8956034,
+    "sheets": [
+      "Sheet1"
+    ],
+    "sheet_count": 1,
+    "chars": 6362
+  },
+  {
+    "name": "关键词201.docx",
+    "rel": "多种类型系列\\关键词201.docx",
+    "ext": ".docx",
+    "bytes": 18663837,
+    "paragraphs": 1196,
+    "tables": 0,
+    "chars": 50559
+  },
+  {
+    "name": "关键词206.xlsx",
+    "rel": "多种类型系列\\关键词206.xlsx",
+    "ext": ".xlsx",
+    "bytes": 8814087,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 20352
+  },
+  {
+    "name": "关键词207.xlsx",
+    "rel": "多种类型系列\\关键词207.xlsx",
+    "ext": ".xlsx",
+    "bytes": 2559470,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 18475
+  },
+  {
+    "name": "关键词239.xls",
+    "rel": "多种类型系列\\关键词239.xls",
+    "ext": ".xls",
+    "bytes": 222380032,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "关键词249.xlsx",
+    "rel": "多种类型系列\\关键词249.xlsx",
+    "ext": ".xlsx",
+    "bytes": 10870054,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 21497
+  },
+  {
+    "name": "关键词302.xlsx",
+    "rel": "多种类型系列\\关键词302.xlsx",
+    "ext": ".xlsx",
+    "bytes": 15281900,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 8768
+  },
+  {
+    "name": "关键词364.xlsx",
+    "rel": "多种类型系列\\关键词364.xlsx",
+    "ext": ".xlsx",
+    "bytes": 5024517,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 19134
+  },
+  {
+    "name": "关键词452.doc",
+    "rel": "多种类型系列\\关键词452.doc",
+    "ext": ".doc",
+    "bytes": 80498484,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "关键词61.xls",
+    "rel": "多种类型系列\\关键词61.xls",
+    "ext": ".xls",
+    "bytes": 47651840,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "关键词7.xls",
+    "rel": "多种类型系列\\关键词7.xls",
+    "ext": ".xls",
+    "bytes": 16398848,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "关键词75.xlsx",
+    "rel": "多种类型系列\\关键词75.xlsx",
+    "ext": ".xlsx",
+    "bytes": 938742,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 29902
+  },
+  {
+    "name": "关键词80.xlsx",
+    "rel": "多种类型系列\\关键词80.xlsx",
+    "ext": ".xlsx",
+    "bytes": 3433487,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 23752
+  },
+  {
+    "name": "关键词100.docx",
+    "rel": "多种类型系列\\文件夹\\关键词100.docx",
+    "ext": ".docx",
+    "bytes": 15047768,
+    "paragraphs": 530,
+    "tables": 0,
+    "chars": 22270
+  },
+  {
+    "name": "关键词135.xlsx",
+    "rel": "多种类型系列\\文件夹\\关键词135.xlsx",
+    "ext": ".xlsx",
+    "bytes": 149977115,
+    "sheets": [
+      "婚纱"
+    ],
+    "sheet_count": 1,
+    "chars": 4231
+  },
+  {
+    "name": "关键词249.xlsx",
+    "rel": "多种类型系列\\文件夹\\关键词249.xlsx",
+    "ext": ".xlsx",
+    "bytes": 10870043,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 21497
+  },
+  {
+    "name": "关键词290.xlsx",
+    "rel": "多种类型系列\\文件夹\\关键词290.xlsx",
+    "ext": ".xlsx",
+    "bytes": 3659476,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 20030
+  },
+  {
+    "name": "关键词302.xlsx",
+    "rel": "多种类型系列\\文件夹\\关键词302.xlsx",
+    "ext": ".xlsx",
+    "bytes": 15282992,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 9008
+  },
+  {
+    "name": "关键词62.docx",
+    "rel": "多种类型系列\\文件夹\\关键词62.docx",
+    "ext": ".docx",
+    "bytes": 8135729,
+    "paragraphs": 151,
+    "tables": 0,
+    "chars": 11137
+  },
+  {
+    "name": "婚纱系列11.xls",
+    "rel": "婚纱系列\\婚纱系列11.xls",
+    "ext": ".xls",
+    "bytes": 28012544,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "小说转分镜（直播用）(1).txt",
+    "rel": "小说转分镜（直播用）(1).txt",
+    "ext": ".txt",
+    "bytes": 6366,
+    "encoding": "utf-8-sig",
+    "chars": 3072
+  },
+  {
+    "name": "影片的美术设计.docx",
+    "rel": "影片的美术设计.docx",
+    "ext": ".docx",
+    "bytes": 20928,
+    "paragraphs": 59,
+    "tables": 0,
+    "chars": 2836
+  },
+  {
+    "name": "图片关键词提取【仅供参考】.rar",
+    "rel": "提取图片中的关键词\\图片关键词提取【仅供参考】.rar",
+    "ext": ".rar",
+    "bytes": 32604600,
+    "type": "archive_asset"
+  },
+  {
+    "name": "260个艺术家名字和风格展示对比.pdf",
+    "rel": "艺术家词典\\260个艺术家名字和风格展示对比.pdf",
+    "ext": ".pdf",
+    "bytes": 71585492,
+    "pages": 254,
+    "sampled_pages": 20,
+    "chars": 428
+  },
+  {
+    "name": "Adam Paquette.jpg",
+    "rel": "艺术家词典\\Adam Paquette.jpg",
+    "ext": ".jpg",
+    "bytes": 230107,
+    "type": "image_asset"
+  },
+  {
+    "name": "Affandi.jpg",
+    "rel": "艺术家词典\\Affandi.jpg",
+    "ext": ".jpg",
+    "bytes": 507631,
+    "type": "image_asset"
+  },
+  {
+    "name": "Akira Toriyama.jpg",
+    "rel": "艺术家词典\\Akira Toriyama.jpg",
+    "ext": ".jpg",
+    "bytes": 343629,
+    "type": "image_asset"
+  },
+  {
+    "name": "Al Williamson.jpg",
+    "rel": "艺术家词典\\Al Williamson.jpg",
+    "ext": ".jpg",
+    "bytes": 516048,
+    "type": "image_asset"
+  },
+  {
+    "name": "Albert Bierstadt.jpg",
+    "rel": "艺术家词典\\Albert Bierstadt.jpg",
+    "ext": ".jpg",
+    "bytes": 300288,
+    "type": "image_asset"
+  },
+  {
+    "name": "Alberto Giacometti.jpg",
+    "rel": "艺术家词典\\Alberto Giacometti.jpg",
+    "ext": ".jpg",
+    "bytes": 326281,
+    "type": "image_asset"
+  },
+  {
+    "name": "Alena Aenami.jpg",
+    "rel": "艺术家词典\\Alena Aenami.jpg",
+    "ext": ".jpg",
+    "bytes": 258068,
+    "type": "image_asset"
+  },
+  {
+    "name": "Alex Grey.jpg",
+    "rel": "艺术家词典\\Alex Grey.jpg",
+    "ext": ".jpg",
+    "bytes": 374478,
+    "type": "image_asset"
+  },
+  {
+    "name": "Alexander Bogen.jpg",
+    "rel": "艺术家词典\\Alexander Bogen.jpg",
+    "ext": ".jpg",
+    "bytes": 224428,
+    "type": "image_asset"
+  },
+  {
+    "name": "Alexander Jansson.jpg",
+    "rel": "艺术家词典\\Alexander Jansson.jpg",
+    "ext": ".jpg",
+    "bytes": 277099,
+    "type": "image_asset"
+  },
+  {
+    "name": "Alexej Von Jawlensky.jpg",
+    "rel": "艺术家词典\\Alexej Von Jawlensky.jpg",
+    "ext": ".jpg",
+    "bytes": 301827,
+    "type": "image_asset"
+  },
+  {
+    "name": "Alfred Kubin.jpg",
+    "rel": "艺术家词典\\Alfred Kubin.jpg",
+    "ext": ".jpg",
+    "bytes": 312127,
+    "type": "image_asset"
+  },
+  {
+    "name": "Alice Neel.jpg",
+    "rel": "艺术家词典\\Alice Neel.jpg",
+    "ext": ".jpg",
+    "bytes": 467131,
+    "type": "image_asset"
+  },
+  {
+    "name": "Alice Rahon.jpg",
+    "rel": "艺术家词典\\Alice Rahon.jpg",
+    "ext": ".jpg",
+    "bytes": 272863,
+    "type": "image_asset"
+  },
+  {
+    "name": "Alphonse Mucha.jpg",
+    "rel": "艺术家词典\\Alphonse Mucha.jpg",
+    "ext": ".jpg",
+    "bytes": 346048,
+    "type": "image_asset"
+  },
+  {
+    "name": "Amedeo Modigliani.jpg",
+    "rel": "艺术家词典\\Amedeo Modigliani.jpg",
+    "ext": ".jpg",
+    "bytes": 442266,
+    "type": "image_asset"
+  },
+  {
+    "name": "Amiet Cuno.jpg",
+    "rel": "艺术家词典\\Amiet Cuno.jpg",
+    "ext": ".jpg",
+    "bytes": 421070,
+    "type": "image_asset"
+  },
+  {
+    "name": "Amir Zand.jpg",
+    "rel": "艺术家词典\\Amir Zand.jpg",
+    "ext": ".jpg",
+    "bytes": 213309,
+    "type": "image_asset"
+  },
+  {
+    "name": "Andreas Rocha.jpg",
+    "rel": "艺术家词典\\Andreas Rocha.jpg",
+    "ext": ".jpg",
+    "bytes": 234136,
+    "type": "image_asset"
+  },
+  {
+    "name": "Andrew Wyeth.jpg",
+    "rel": "艺术家词典\\Andrew Wyeth.jpg",
+    "ext": ".jpg",
+    "bytes": 416361,
+    "type": "image_asset"
+  },
+  {
+    "name": "Andy Warhol.jpg",
+    "rel": "艺术家词典\\Andy Warhol.jpg",
+    "ext": ".jpg",
+    "bytes": 281158,
+    "type": "image_asset"
+  },
+  {
+    "name": "Anna Dittmann.jpg",
+    "rel": "艺术家词典\\Anna Dittmann.jpg",
+    "ext": ".jpg",
+    "bytes": 251472,
+    "type": "image_asset"
+  },
+  {
+    "name": "Anne Geddes.jpg",
+    "rel": "艺术家词典\\Anne Geddes.jpg",
+    "ext": ".jpg",
+    "bytes": 280596,
+    "type": "image_asset"
+  },
+  {
+    "name": "Anne Stokes.jpg",
+    "rel": "艺术家词典\\Anne Stokes.jpg",
+    "ext": ".jpg",
+    "bytes": 447956,
+    "type": "image_asset"
+  },
+  {
+    "name": "Annibale Carracci.jpg",
+    "rel": "艺术家词典\\Annibale Carracci.jpg",
+    "ext": ".jpg",
+    "bytes": 470386,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ansel Adams.jpg",
+    "rel": "艺术家词典\\Ansel Adams.jpg",
+    "ext": ".jpg",
+    "bytes": 360139,
+    "type": "image_asset"
+  },
+  {
+    "name": "Anthony van Dyck.jpg",
+    "rel": "艺术家词典\\Anthony van Dyck.jpg",
+    "ext": ".jpg",
+    "bytes": 291530,
+    "type": "image_asset"
+  },
+  {
+    "name": "Anton Fadeev.jpg",
+    "rel": "艺术家词典\\Anton Fadeev.jpg",
+    "ext": ".jpg",
+    "bytes": 354900,
+    "type": "image_asset"
+  },
+  {
+    "name": "Anton Otto Fischer.jpg",
+    "rel": "艺术家词典\\Anton Otto Fischer.jpg",
+    "ext": ".jpg",
+    "bytes": 337864,
+    "type": "image_asset"
+  },
+  {
+    "name": "Anton Pieck.jpg",
+    "rel": "艺术家词典\\Anton Pieck.jpg",
+    "ext": ".jpg",
+    "bytes": 374956,
+    "type": "image_asset"
+  },
+  {
+    "name": "Apollonia Saintclair.jpg",
+    "rel": "艺术家词典\\Apollonia Saintclair.jpg",
+    "ext": ".jpg",
+    "bytes": 365880,
+    "type": "image_asset"
+  },
+  {
+    "name": "Arik Brauer.jpg",
+    "rel": "艺术家词典\\Arik Brauer.jpg",
+    "ext": ".jpg",
+    "bytes": 260488,
+    "type": "image_asset"
+  },
+  {
+    "name": "Arshile Gorky.jpg",
+    "rel": "艺术家词典\\Arshile Gorky.jpg",
+    "ext": ".jpg",
+    "bytes": 256926,
+    "type": "image_asset"
+  },
+  {
+    "name": "Art Fitzpatrick.jpg",
+    "rel": "艺术家词典\\Art Fitzpatrick.jpg",
+    "ext": ".jpg",
+    "bytes": 324115,
+    "type": "image_asset"
+  },
+  {
+    "name": "Art Spiegelman.jpg",
+    "rel": "艺术家词典\\Art Spiegelman.jpg",
+    "ext": ".jpg",
+    "bytes": 323262,
+    "type": "image_asset"
+  },
+  {
+    "name": "Artemisia Gentileschi.jpg",
+    "rel": "艺术家词典\\Artemisia Gentileschi.jpg",
+    "ext": ".jpg",
+    "bytes": 314911,
+    "type": "image_asset"
+  },
+  {
+    "name": "Artgerm.jpg",
+    "rel": "艺术家词典\\Artgerm.jpg",
+    "ext": ".jpg",
+    "bytes": 456413,
+    "type": "image_asset"
+  },
+  {
+    "name": "Arthur Adams.jpg",
+    "rel": "艺术家词典\\Arthur Adams.jpg",
+    "ext": ".jpg",
+    "bytes": 563140,
+    "type": "image_asset"
+  },
+  {
+    "name": "Arthur Dove.jpg",
+    "rel": "艺术家词典\\Arthur Dove.jpg",
+    "ext": ".jpg",
+    "bytes": 260053,
+    "type": "image_asset"
+  },
+  {
+    "name": "Arthur Rackham.jpg",
+    "rel": "艺术家词典\\Arthur Rackham.jpg",
+    "ext": ".jpg",
+    "bytes": 466745,
+    "type": "image_asset"
+  },
+  {
+    "name": "Asaf Hanuka.jpg",
+    "rel": "艺术家词典\\Asaf Hanuka.jpg",
+    "ext": ".jpg",
+    "bytes": 279963,
+    "type": "image_asset"
+  },
+  {
+    "name": "Asher Brown Durand.jpg",
+    "rel": "艺术家词典\\Asher Brown Durand.jpg",
+    "ext": ".jpg",
+    "bytes": 319927,
+    "type": "image_asset"
+  },
+  {
+    "name": "Atey Ghailan.jpg",
+    "rel": "艺术家词典\\Atey Ghailan.jpg",
+    "ext": ".jpg",
+    "bytes": 277812,
+    "type": "image_asset"
+  },
+  {
+    "name": "Aubrey Beardsley.jpg",
+    "rel": "艺术家词典\\Aubrey Beardsley.jpg",
+    "ext": ".jpg",
+    "bytes": 308547,
+    "type": "image_asset"
+  },
+  {
+    "name": "Audrey Kawasaki.jpg",
+    "rel": "艺术家词典\\Audrey Kawasaki.jpg",
+    "ext": ".jpg",
+    "bytes": 469712,
+    "type": "image_asset"
+  },
+  {
+    "name": "August Macke.jpg",
+    "rel": "艺术家词典\\August Macke.jpg",
+    "ext": ".jpg",
+    "bytes": 275070,
+    "type": "image_asset"
+  },
+  {
+    "name": "Austin Briggs.jpg",
+    "rel": "艺术家词典\\Austin Briggs.jpg",
+    "ext": ".jpg",
+    "bytes": 507336,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ayami Kojima.jpg",
+    "rel": "艺术家词典\\Ayami Kojima.jpg",
+    "ext": ".jpg",
+    "bytes": 500155,
+    "type": "image_asset"
+  },
+  {
+    "name": "Banksy.jpg",
+    "rel": "艺术家词典\\Banksy.jpg",
+    "ext": ".jpg",
+    "bytes": 331788,
+    "type": "image_asset"
+  },
+  {
+    "name": "Barclay Shaw.jpg",
+    "rel": "艺术家词典\\Barclay Shaw.jpg",
+    "ext": ".jpg",
+    "bytes": 521046,
+    "type": "image_asset"
+  },
+  {
+    "name": "Bastien Lecouffe-Deharme.jpg",
+    "rel": "艺术家词典\\Bastien Lecouffe-Deharme.jpg",
+    "ext": ".jpg",
+    "bytes": 309547,
+    "type": "image_asset"
+  },
+  {
+    "name": "Bauhaus.jpg",
+    "rel": "艺术家词典\\Bauhaus.jpg",
+    "ext": ".jpg",
+    "bytes": 202109,
+    "type": "image_asset"
+  },
+  {
+    "name": "Beatrix Potter.jpg",
+    "rel": "艺术家词典\\Beatrix Potter.jpg",
+    "ext": ".jpg",
+    "bytes": 447971,
+    "type": "image_asset"
+  },
+  {
+    "name": "Beauford Delaney.jpg",
+    "rel": "艺术家词典\\Beauford Delaney.jpg",
+    "ext": ".jpg",
+    "bytes": 495000,
+    "type": "image_asset"
+  },
+  {
+    "name": "Beeple.jpg",
+    "rel": "艺术家词典\\Beeple.jpg",
+    "ext": ".jpg",
+    "bytes": 211549,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ben Shahn.jpg",
+    "rel": "艺术家词典\\Ben Shahn.jpg",
+    "ext": ".jpg",
+    "bytes": 419658,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ben Templesmith.jpg",
+    "rel": "艺术家词典\\Ben Templesmith.jpg",
+    "ext": ".jpg",
+    "bytes": 217716,
+    "type": "image_asset"
+  },
+  {
+    "name": "Benoit B. Mandelbrot.jpg",
+    "rel": "艺术家词典\\Benoit B. Mandelbrot.jpg",
+    "ext": ".jpg",
+    "bytes": 277129,
+    "type": "image_asset"
+  },
+  {
+    "name": "Bernard Buffet.jpg",
+    "rel": "艺术家词典\\Bernard Buffet.jpg",
+    "ext": ".jpg",
+    "bytes": 519319,
+    "type": "image_asset"
+  },
+  {
+    "name": "Bernie Wrightson.jpg",
+    "rel": "艺术家词典\\Bernie Wrightson.jpg",
+    "ext": ".jpg",
+    "bytes": 539625,
+    "type": "image_asset"
+  },
+  {
+    "name": "Bob Byerley.jpg",
+    "rel": "艺术家词典\\Bob Byerley.jpg",
+    "ext": ".jpg",
+    "bytes": 529871,
+    "type": "image_asset"
+  },
+  {
+    "name": "Bob Eggleton.jpg",
+    "rel": "艺术家词典\\Bob Eggleton.jpg",
+    "ext": ".jpg",
+    "bytes": 345721,
+    "type": "image_asset"
+  },
+  {
+    "name": "Bob Ringwood.jpg",
+    "rel": "艺术家词典\\Bob Ringwood.jpg",
+    "ext": ".jpg",
+    "bytes": 271693,
+    "type": "image_asset"
+  },
+  {
+    "name": "Bob Ross.jpg",
+    "rel": "艺术家词典\\Bob Ross.jpg",
+    "ext": ".jpg",
+    "bytes": 345225,
+    "type": "image_asset"
+  },
+  {
+    "name": "Boris Vallejo.jpg",
+    "rel": "艺术家词典\\Boris Vallejo.jpg",
+    "ext": ".jpg",
+    "bytes": 359812,
+    "type": "image_asset"
+  },
+  {
+    "name": "Brian Despain.jpg",
+    "rel": "艺术家词典\\Brian Despain.jpg",
+    "ext": ".jpg",
+    "bytes": 276802,
+    "type": "image_asset"
+  },
+  {
+    "name": "Brian Froud.jpg",
+    "rel": "艺术家词典\\Brian Froud.jpg",
+    "ext": ".jpg",
+    "bytes": 349463,
+    "type": "image_asset"
+  },
+  {
+    "name": "Bridget Bate Tichenor.jpg",
+    "rel": "艺术家词典\\Bridget Bate Tichenor.jpg",
+    "ext": ".jpg",
+    "bytes": 225635,
+    "type": "image_asset"
+  },
+  {
+    "name": "Brothers Hildebrandt.jpg",
+    "rel": "艺术家词典\\Brothers Hildebrandt.jpg",
+    "ext": ".jpg",
+    "bytes": 307777,
+    "type": "image_asset"
+  },
+  {
+    "name": "Bruce Pennington.jpg",
+    "rel": "艺术家词典\\Bruce Pennington.jpg",
+    "ext": ".jpg",
+    "bytes": 324477,
+    "type": "image_asset"
+  },
+  {
+    "name": "Camille Corot.jpg",
+    "rel": "艺术家词典\\Camille Corot.jpg",
+    "ext": ".jpg",
+    "bytes": 277718,
+    "type": "image_asset"
+  },
+  {
+    "name": "Camille Pissarro.jpg",
+    "rel": "艺术家词典\\Camille Pissarro.jpg",
+    "ext": ".jpg",
+    "bytes": 444201,
+    "type": "image_asset"
+  },
+  {
+    "name": "Camille-Pierre Pambu Bodo.jpg",
+    "rel": "艺术家词典\\Camille-Pierre Pambu Bodo.jpg",
+    "ext": ".jpg",
+    "bytes": 263676,
+    "type": "image_asset"
+  },
+  {
+    "name": "Canaletto.jpg",
+    "rel": "艺术家词典\\Canaletto.jpg",
+    "ext": ".jpg",
+    "bytes": 300032,
+    "type": "image_asset"
+  },
+  {
+    "name": "Candido Portinari.jpg",
+    "rel": "艺术家词典\\Candido Portinari.jpg",
+    "ext": ".jpg",
+    "bytes": 294824,
+    "type": "image_asset"
+  },
+  {
+    "name": "Caravaggio.jpg",
+    "rel": "艺术家词典\\Caravaggio.jpg",
+    "ext": ".jpg",
+    "bytes": 261737,
+    "type": "image_asset"
+  },
+  {
+    "name": "Carl Barks.jpg",
+    "rel": "艺术家词典\\Carl Barks.jpg",
+    "ext": ".jpg",
+    "bytes": 480583,
+    "type": "image_asset"
+  },
+  {
+    "name": "Carne Griffiths.jpg",
+    "rel": "艺术家词典\\Carne Griffiths.jpg",
+    "ext": ".jpg",
+    "bytes": 541714,
+    "type": "image_asset"
+  },
+  {
+    "name": "Caspar David Friedrich.jpg",
+    "rel": "艺术家词典\\Caspar David Friedrich.jpg",
+    "ext": ".jpg",
+    "bytes": 224956,
+    "type": "image_asset"
+  },
+  {
+    "name": "Cecily Mary Barker.jpg",
+    "rel": "艺术家词典\\Cecily Mary Barker.jpg",
+    "ext": ".jpg",
+    "bytes": 494684,
+    "type": "image_asset"
+  },
+  {
+    "name": "Charles Angrand.jpg",
+    "rel": "艺术家词典\\Charles Angrand.jpg",
+    "ext": ".jpg",
+    "bytes": 234696,
+    "type": "image_asset"
+  },
+  {
+    "name": "Charles Blackman.jpg",
+    "rel": "艺术家词典\\Charles Blackman.jpg",
+    "ext": ".jpg",
+    "bytes": 261858,
+    "type": "image_asset"
+  },
+  {
+    "name": "Charles E Burchfield.jpg",
+    "rel": "艺术家词典\\Charles E Burchfield.jpg",
+    "ext": ".jpg",
+    "bytes": 450915,
+    "type": "image_asset"
+  },
+  {
+    "name": "Charles Schulz.jpg",
+    "rel": "艺术家词典\\Charles Schulz.jpg",
+    "ext": ".jpg",
+    "bytes": 283063,
+    "type": "image_asset"
+  },
+  {
+    "name": "Chesley Bonestell.jpg",
+    "rel": "艺术家词典\\Chesley Bonestell.jpg",
+    "ext": ".jpg",
+    "bytes": 278936,
+    "type": "image_asset"
+  },
+  {
+    "name": "Chris Foss.jpg",
+    "rel": "艺术家词典\\Chris Foss.jpg",
+    "ext": ".jpg",
+    "bytes": 253971,
+    "type": "image_asset"
+  },
+  {
+    "name": "Chris LaBrooy.jpg",
+    "rel": "艺术家词典\\Chris LaBrooy.jpg",
+    "ext": ".jpg",
+    "bytes": 258336,
+    "type": "image_asset"
+  },
+  {
+    "name": "Chris Moore.jpg",
+    "rel": "艺术家词典\\Chris Moore.jpg",
+    "ext": ".jpg",
+    "bytes": 232610,
+    "type": "image_asset"
+  },
+  {
+    "name": "Christopher Balaskas.jpg",
+    "rel": "艺术家词典\\Christopher Balaskas.jpg",
+    "ext": ".jpg",
+    "bytes": 311967,
+    "type": "image_asset"
+  },
+  {
+    "name": "Cindy Sherman.jpg",
+    "rel": "艺术家词典\\Cindy Sherman.jpg",
+    "ext": ".jpg",
+    "bytes": 335265,
+    "type": "image_asset"
+  },
+  {
+    "name": "Claude Monet.jpg",
+    "rel": "艺术家词典\\Claude Monet.jpg",
+    "ext": ".jpg",
+    "bytes": 436019,
+    "type": "image_asset"
+  },
+  {
+    "name": "Clovis Trouille.jpg",
+    "rel": "艺术家词典\\Clovis Trouille.jpg",
+    "ext": ".jpg",
+    "bytes": 275154,
+    "type": "image_asset"
+  },
+  {
+    "name": "Clyde Caldwell.jpg",
+    "rel": "艺术家词典\\Clyde Caldwell.jpg",
+    "ext": ".jpg",
+    "bytes": 410766,
+    "type": "image_asset"
+  },
+  {
+    "name": "Coby Whitmore.jpg",
+    "rel": "艺术家词典\\Coby Whitmore.jpg",
+    "ext": ".jpg",
+    "bytes": 342393,
+    "type": "image_asset"
+  },
+  {
+    "name": "Coles Phillips.jpg",
+    "rel": "艺术家词典\\Coles Phillips.jpg",
+    "ext": ".jpg",
+    "bytes": 274752,
+    "type": "image_asset"
+  },
+  {
+    "name": "Conrad Roset.jpg",
+    "rel": "艺术家词典\\Conrad Roset.jpg",
+    "ext": ".jpg",
+    "bytes": 270147,
+    "type": "image_asset"
+  },
+  {
+    "name": "Craig Davison.jpg",
+    "rel": "艺术家词典\\Craig Davison.jpg",
+    "ext": ".jpg",
+    "bytes": 269551,
+    "type": "image_asset"
+  },
+  {
+    "name": "Craig Mullins.jpg",
+    "rel": "艺术家词典\\Craig Mullins.jpg",
+    "ext": ".jpg",
+    "bytes": 304504,
+    "type": "image_asset"
+  },
+  {
+    "name": "Craola.jpg",
+    "rel": "艺术家词典\\Craola.jpg",
+    "ext": ".jpg",
+    "bytes": 256455,
+    "type": "image_asset"
+  },
+  {
+    "name": "Dan Mumford.jpg",
+    "rel": "艺术家词典\\Dan Mumford.jpg",
+    "ext": ".jpg",
+    "bytes": 407718,
+    "type": "image_asset"
+  },
+  {
+    "name": "Daniel Merriam.jpg",
+    "rel": "艺术家词典\\Daniel Merriam.jpg",
+    "ext": ".jpg",
+    "bytes": 336760,
+    "type": "image_asset"
+  },
+  {
+    "name": "Dave Dorman.jpg",
+    "rel": "艺术家词典\\Dave Dorman.jpg",
+    "ext": ".jpg",
+    "bytes": 325758,
+    "type": "image_asset"
+  },
+  {
+    "name": "Dave Gibbons.jpg",
+    "rel": "艺术家词典\\Dave Gibbons.jpg",
+    "ext": ".jpg",
+    "bytes": 278160,
+    "type": "image_asset"
+  },
+  {
+    "name": "Dave McKean.jpg",
+    "rel": "艺术家词典\\Dave McKean.jpg",
+    "ext": ".jpg",
+    "bytes": 271939,
+    "type": "image_asset"
+  },
+  {
+    "name": "David B. Mattingly.jpg",
+    "rel": "艺术家词典\\David B. Mattingly.jpg",
+    "ext": ".jpg",
+    "bytes": 424474,
+    "type": "image_asset"
+  },
+  {
+    "name": "David Burliuk.jpg",
+    "rel": "艺术家词典\\David Burliuk.jpg",
+    "ext": ".jpg",
+    "bytes": 488735,
+    "type": "image_asset"
+  },
+  {
+    "name": "David Hockney.jpg",
+    "rel": "艺术家词典\\David Hockney.jpg",
+    "ext": ".jpg",
+    "bytes": 272264,
+    "type": "image_asset"
+  },
+  {
+    "name": "Dean Ellis.jpg",
+    "rel": "艺术家词典\\Dean Ellis.jpg",
+    "ext": ".jpg",
+    "bytes": 452038,
+    "type": "image_asset"
+  },
+  {
+    "name": "Diane Arbus.jpg",
+    "rel": "艺术家词典\\Diane Arbus.jpg",
+    "ext": ".jpg",
+    "bytes": 420522,
+    "type": "image_asset"
+  },
+  {
+    "name": "Diego Rivera.jpg",
+    "rel": "艺术家词典\\Diego Rivera.jpg",
+    "ext": ".jpg",
+    "bytes": 306798,
+    "type": "image_asset"
+  },
+  {
+    "name": "Diego Velazquez.jpg",
+    "rel": "艺术家词典\\Diego Velazquez.jpg",
+    "ext": ".jpg",
+    "bytes": 293114,
+    "type": "image_asset"
+  },
+  {
+    "name": "Don Bluth.jpg",
+    "rel": "艺术家词典\\Don Bluth.jpg",
+    "ext": ".jpg",
+    "bytes": 460251,
+    "type": "image_asset"
+  },
+  {
+    "name": "Don Maitz.jpg",
+    "rel": "艺术家词典\\Don Maitz.jpg",
+    "ext": ".jpg",
+    "bytes": 281802,
+    "type": "image_asset"
+  },
+  {
+    "name": "Donato Giancola.jpg",
+    "rel": "艺术家词典\\Donato Giancola.jpg",
+    "ext": ".jpg",
+    "bytes": 351337,
+    "type": "image_asset"
+  },
+  {
+    "name": "Dora Maar.jpg",
+    "rel": "艺术家词典\\Dora Maar.jpg",
+    "ext": ".jpg",
+    "bytes": 424107,
+    "type": "image_asset"
+  },
+  {
+    "name": "Dorothea Tanning.jpg",
+    "rel": "艺术家词典\\Dorothea Tanning.jpg",
+    "ext": ".jpg",
+    "bytes": 424668,
+    "type": "image_asset"
+  },
+  {
+    "name": "Earl Norem.jpg",
+    "rel": "艺术家词典\\Earl Norem.jpg",
+    "ext": ".jpg",
+    "bytes": 497603,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ed Emshwiller.jpg",
+    "rel": "艺术家词典\\Ed Emshwiller.jpg",
+    "ext": ".jpg",
+    "bytes": 329136,
+    "type": "image_asset"
+  },
+  {
+    "name": "Eddie Campbell.jpg",
+    "rel": "艺术家词典\\Eddie Campbell.jpg",
+    "ext": ".jpg",
+    "bytes": 466500,
+    "type": "image_asset"
+  },
+  {
+    "name": "Edgar Degas.jpg",
+    "rel": "艺术家词典\\Edgar Degas.jpg",
+    "ext": ".jpg",
+    "bytes": 257064,
+    "type": "image_asset"
+  },
+  {
+    "name": "Edmund Dulac.jpg",
+    "rel": "艺术家词典\\Edmund Dulac.jpg",
+    "ext": ".jpg",
+    "bytes": 252967,
+    "type": "image_asset"
+  },
+  {
+    "name": "Edmund Leighton.jpg",
+    "rel": "艺术家词典\\Edmund Leighton.jpg",
+    "ext": ".jpg",
+    "bytes": 418816,
+    "type": "image_asset"
+  },
+  {
+    "name": "Edvard Munch.jpg",
+    "rel": "艺术家词典\\Edvard Munch.jpg",
+    "ext": ".jpg",
+    "bytes": 350657,
+    "type": "image_asset"
+  },
+  {
+    "name": "Edward Burne-Jones.jpg",
+    "rel": "艺术家词典\\Edward Burne-Jones.jpg",
+    "ext": ".jpg",
+    "bytes": 559998,
+    "type": "image_asset"
+  },
+  {
+    "name": "Edward Gorey.jpg",
+    "rel": "艺术家词典\\Edward Gorey.jpg",
+    "ext": ".jpg",
+    "bytes": 426844,
+    "type": "image_asset"
+  },
+  {
+    "name": "Edward Hopper.jpg",
+    "rel": "艺术家词典\\Edward Hopper.jpg",
+    "ext": ".jpg",
+    "bytes": 240543,
+    "type": "image_asset"
+  },
+  {
+    "name": "Edward Weston.jpg",
+    "rel": "艺术家词典\\Edward Weston.jpg",
+    "ext": ".jpg",
+    "bytes": 290031,
+    "type": "image_asset"
+  },
+  {
+    "name": "Egon Schiele.jpg",
+    "rel": "艺术家词典\\Egon Schiele.jpg",
+    "ext": ".jpg",
+    "bytes": 335713,
+    "type": "image_asset"
+  },
+  {
+    "name": "El Greco.jpg",
+    "rel": "艺术家词典\\El Greco.jpg",
+    "ext": ".jpg",
+    "bytes": 461660,
+    "type": "image_asset"
+  },
+  {
+    "name": "Elaine de Kooning.jpg",
+    "rel": "艺术家词典\\Elaine de Kooning.jpg",
+    "ext": ".jpg",
+    "bytes": 537874,
+    "type": "image_asset"
+  },
+  {
+    "name": "Eleanor Vere Boyle.jpg",
+    "rel": "艺术家词典\\Eleanor Vere Boyle.jpg",
+    "ext": ".jpg",
+    "bytes": 293334,
+    "type": "image_asset"
+  },
+  {
+    "name": "Elliott Erwitt.jpg",
+    "rel": "艺术家词典\\Elliott Erwitt.jpg",
+    "ext": ".jpg",
+    "bytes": 217124,
+    "type": "image_asset"
+  },
+  {
+    "name": "Elsa Beskow.jpg",
+    "rel": "艺术家词典\\Elsa Beskow.jpg",
+    "ext": ".jpg",
+    "bytes": 486996,
+    "type": "image_asset"
+  },
+  {
+    "name": "Emil Nolde.jpg",
+    "rel": "艺术家词典\\Emil Nolde.jpg",
+    "ext": ".jpg",
+    "bytes": 301106,
+    "type": "image_asset"
+  },
+  {
+    "name": "Emma Geary.jpg",
+    "rel": "艺术家词典\\Emma Geary.jpg",
+    "ext": ".jpg",
+    "bytes": 274847,
+    "type": "image_asset"
+  },
+  {
+    "name": "Enki Bilal.jpg",
+    "rel": "艺术家词典\\Enki Bilal.jpg",
+    "ext": ".jpg",
+    "bytes": 541676,
+    "type": "image_asset"
+  },
+  {
+    "name": "Erich Heckel.jpg",
+    "rel": "艺术家词典\\Erich Heckel.jpg",
+    "ext": ".jpg",
+    "bytes": 486006,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ernst Fuchs.jpg",
+    "rel": "艺术家词典\\Ernst Fuchs.jpg",
+    "ext": ".jpg",
+    "bytes": 673346,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ernst Haeckel.jpg",
+    "rel": "艺术家词典\\Ernst Haeckel.jpg",
+    "ext": ".jpg",
+    "bytes": 461227,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ernst Ludwig Kirchner.jpg",
+    "rel": "艺术家词典\\Ernst Ludwig Kirchner.jpg",
+    "ext": ".jpg",
+    "bytes": 326688,
+    "type": "image_asset"
+  },
+  {
+    "name": "Esao Andrews.jpg",
+    "rel": "艺术家词典\\Esao Andrews.jpg",
+    "ext": ".jpg",
+    "bytes": 350888,
+    "type": "image_asset"
+  },
+  {
+    "name": "Esteban Vicente.jpg",
+    "rel": "艺术家词典\\Esteban Vicente.jpg",
+    "ext": ".jpg",
+    "bytes": 238170,
+    "type": "image_asset"
+  },
+  {
+    "name": "Eugene Delacroix.jpg",
+    "rel": "艺术家词典\\Eugene Delacroix.jpg",
+    "ext": ".jpg",
+    "bytes": 292695,
+    "type": "image_asset"
+  },
+  {
+    "name": "Evelyn De Morgan.jpg",
+    "rel": "艺术家词典\\Evelyn De Morgan.jpg",
+    "ext": ".jpg",
+    "bytes": 399016,
+    "type": "image_asset"
+  },
+  {
+    "name": "Eyvind Earle.jpg",
+    "rel": "艺术家词典\\Eyvind Earle.jpg",
+    "ext": ".jpg",
+    "bytes": 249439,
+    "type": "image_asset"
+  },
+  {
+    "name": "Farel Dalrymple.jpg",
+    "rel": "艺术家词典\\Farel Dalrymple.jpg",
+    "ext": ".jpg",
+    "bytes": 343152,
+    "type": "image_asset"
+  },
+  {
+    "name": "Felix Kelly.jpg",
+    "rel": "艺术家词典\\Felix Kelly.jpg",
+    "ext": ".jpg",
+    "bytes": 245884,
+    "type": "image_asset"
+  },
+  {
+    "name": "Fenghua Zhong.jpg",
+    "rel": "艺术家词典\\Fenghua Zhong.jpg",
+    "ext": ".jpg",
+    "bytes": 250562,
+    "type": "image_asset"
+  },
+  {
+    "name": "Filippino Lippi.jpg",
+    "rel": "艺术家词典\\Filippino Lippi.jpg",
+    "ext": ".jpg",
+    "bytes": 359005,
+    "type": "image_asset"
+  },
+  {
+    "name": "Francis Bacon.jpg",
+    "rel": "艺术家词典\\Francis Bacon.jpg",
+    "ext": ".jpg",
+    "bytes": 267711,
+    "type": "image_asset"
+  },
+  {
+    "name": "Francis Picabia.jpg",
+    "rel": "艺术家词典\\Francis Picabia.jpg",
+    "ext": ".jpg",
+    "bytes": 456126,
+    "type": "image_asset"
+  },
+  {
+    "name": "Francisco Goya.jpg",
+    "rel": "艺术家词典\\Francisco Goya.jpg",
+    "ext": ".jpg",
+    "bytes": 205090,
+    "type": "image_asset"
+  },
+  {
+    "name": "Frank Auerbach.jpg",
+    "rel": "艺术家词典\\Frank Auerbach.jpg",
+    "ext": ".jpg",
+    "bytes": 577452,
+    "type": "image_asset"
+  },
+  {
+    "name": "Frank Frazetta.jpg",
+    "rel": "艺术家词典\\Frank Frazetta.jpg",
+    "ext": ".jpg",
+    "bytes": 336304,
+    "type": "image_asset"
+  },
+  {
+    "name": "Frank Miller.jpg",
+    "rel": "艺术家词典\\Frank Miller.jpg",
+    "ext": ".jpg",
+    "bytes": 282725,
+    "type": "image_asset"
+  },
+  {
+    "name": "Franklin Booth.jpg",
+    "rel": "艺术家词典\\Franklin Booth.jpg",
+    "ext": ".jpg",
+    "bytes": 455819,
+    "type": "image_asset"
+  },
+  {
+    "name": "Franz Marc.jpg",
+    "rel": "艺术家词典\\Franz Marc.jpg",
+    "ext": ".jpg",
+    "bytes": 472344,
+    "type": "image_asset"
+  },
+  {
+    "name": "Franz Sedlacek.jpg",
+    "rel": "艺术家词典\\Franz Sedlacek.jpg",
+    "ext": ".jpg",
+    "bytes": 249419,
+    "type": "image_asset"
+  },
+  {
+    "name": "Franz Xaver Winterhalter.jpg",
+    "rel": "艺术家词典\\Franz Xaver Winterhalter.jpg",
+    "ext": ".jpg",
+    "bytes": 360741,
+    "type": "image_asset"
+  },
+  {
+    "name": "Frederick Lord Leighton.jpg",
+    "rel": "艺术家词典\\Frederick Lord Leighton.jpg",
+    "ext": ".jpg",
+    "bytes": 258124,
+    "type": "image_asset"
+  },
+  {
+    "name": "Frida Kahlo.jpg",
+    "rel": "艺术家词典\\Frida Kahlo.jpg",
+    "ext": ".jpg",
+    "bytes": 270808,
+    "type": "image_asset"
+  },
+  {
+    "name": "Frits Van den Berghe.jpg",
+    "rel": "艺术家词典\\Frits Van den Berghe.jpg",
+    "ext": ".jpg",
+    "bytes": 407234,
+    "type": "image_asset"
+  },
+  {
+    "name": "Gediminas Pranckevicius.jpg",
+    "rel": "艺术家词典\\Gediminas Pranckevicius.jpg",
+    "ext": ".jpg",
+    "bytes": 255303,
+    "type": "image_asset"
+  },
+  {
+    "name": "Geof Darrow.jpg",
+    "rel": "艺术家词典\\Geof Darrow.jpg",
+    "ext": ".jpg",
+    "bytes": 387858,
+    "type": "image_asset"
+  },
+  {
+    "name": "George Frederic Watts.jpg",
+    "rel": "艺术家词典\\George Frederic Watts.jpg",
+    "ext": ".jpg",
+    "bytes": 314679,
+    "type": "image_asset"
+  },
+  {
+    "name": "George Grosz.jpg",
+    "rel": "艺术家词典\\George Grosz.jpg",
+    "ext": ".jpg",
+    "bytes": 331910,
+    "type": "image_asset"
+  },
+  {
+    "name": "George Inness.jpg",
+    "rel": "艺术家词典\\George Inness.jpg",
+    "ext": ".jpg",
+    "bytes": 257534,
+    "type": "image_asset"
+  },
+  {
+    "name": "George Lucas.jpg",
+    "rel": "艺术家词典\\George Lucas.jpg",
+    "ext": ".jpg",
+    "bytes": 289115,
+    "type": "image_asset"
+  },
+  {
+    "name": "George Luks.jpg",
+    "rel": "艺术家词典\\George Luks.jpg",
+    "ext": ".jpg",
+    "bytes": 324943,
+    "type": "image_asset"
+  },
+  {
+    "name": "Georges Rouault.jpg",
+    "rel": "艺术家词典\\Georges Rouault.jpg",
+    "ext": ".jpg",
+    "bytes": 486613,
+    "type": "image_asset"
+  },
+  {
+    "name": "Georges Seurat.jpg",
+    "rel": "艺术家词典\\Georges Seurat.jpg",
+    "ext": ".jpg",
+    "bytes": 251905,
+    "type": "image_asset"
+  },
+  {
+    "name": "Georgia O'Keeffe.jpg",
+    "rel": "艺术家词典\\Georgia O'Keeffe.jpg",
+    "ext": ".jpg",
+    "bytes": 214935,
+    "type": "image_asset"
+  },
+  {
+    "name": "Gerald Brom.jpg",
+    "rel": "艺术家词典\\Gerald Brom.jpg",
+    "ext": ".jpg",
+    "bytes": 262626,
+    "type": "image_asset"
+  },
+  {
+    "name": "Gerhard Richter.jpg",
+    "rel": "艺术家词典\\Gerhard Richter.jpg",
+    "ext": ".jpg",
+    "bytes": 271083,
+    "type": "image_asset"
+  },
+  {
+    "name": "Giorgio de Chirico.jpg",
+    "rel": "艺术家词典\\Giorgio de Chirico.jpg",
+    "ext": ".jpg",
+    "bytes": 332256,
+    "type": "image_asset"
+  },
+  {
+    "name": "Giovanni Batista Piranesi.jpg",
+    "rel": "艺术家词典\\Giovanni Batista Piranesi.jpg",
+    "ext": ".jpg",
+    "bytes": 450853,
+    "type": "image_asset"
+  },
+  {
+    "name": "Giovanni Battista Gaulli.jpg",
+    "rel": "艺术家词典\\Giovanni Battista Gaulli.jpg",
+    "ext": ".jpg",
+    "bytes": 341979,
+    "type": "image_asset"
+  },
+  {
+    "name": "Giuseppe Arcimboldo.jpg",
+    "rel": "艺术家词典\\Giuseppe Arcimboldo.jpg",
+    "ext": ".jpg",
+    "bytes": 385315,
+    "type": "image_asset"
+  },
+  {
+    "name": "Goro Fujita.jpg",
+    "rel": "艺术家词典\\Goro Fujita.jpg",
+    "ext": ".jpg",
+    "bytes": 261784,
+    "type": "image_asset"
+  },
+  {
+    "name": "Greg Hildebrandt.jpg",
+    "rel": "艺术家词典\\Greg Hildebrandt.jpg",
+    "ext": ".jpg",
+    "bytes": 386639,
+    "type": "image_asset"
+  },
+  {
+    "name": "Greg Rutkowski.jpg",
+    "rel": "艺术家词典\\Greg Rutkowski.jpg",
+    "ext": ".jpg",
+    "bytes": 322309,
+    "type": "image_asset"
+  },
+  {
+    "name": "Grzegorz Domaradzki.jpg",
+    "rel": "艺术家词典\\Grzegorz Domaradzki.jpg",
+    "ext": ".jpg",
+    "bytes": 233690,
+    "type": "image_asset"
+  },
+  {
+    "name": "Guido Borelli da Caluso.jpg",
+    "rel": "艺术家词典\\Guido Borelli da Caluso.jpg",
+    "ext": ".jpg",
+    "bytes": 384248,
+    "type": "image_asset"
+  },
+  {
+    "name": "Gustav Klimt.jpg",
+    "rel": "艺术家词典\\Gustav Klimt.jpg",
+    "ext": ".jpg",
+    "bytes": 320226,
+    "type": "image_asset"
+  },
+  {
+    "name": "Gustave Courbet.jpg",
+    "rel": "艺术家词典\\Gustave Courbet.jpg",
+    "ext": ".jpg",
+    "bytes": 308567,
+    "type": "image_asset"
+  },
+  {
+    "name": "Gustave Moreau.jpg",
+    "rel": "艺术家词典\\Gustave Moreau.jpg",
+    "ext": ".jpg",
+    "bytes": 505652,
+    "type": "image_asset"
+  },
+  {
+    "name": "Gustave Van de Woestijne.jpg",
+    "rel": "艺术家词典\\Gustave Van de Woestijne.jpg",
+    "ext": ".jpg",
+    "bytes": 298481,
+    "type": "image_asset"
+  },
+  {
+    "name": "H. P. Lovecraft.jpg",
+    "rel": "艺术家词典\\H. P. Lovecraft.jpg",
+    "ext": ".jpg",
+    "bytes": 252595,
+    "type": "image_asset"
+  },
+  {
+    "name": "Hal Foster.jpg",
+    "rel": "艺术家词典\\Hal Foster.jpg",
+    "ext": ".jpg",
+    "bytes": 265861,
+    "type": "image_asset"
+  },
+  {
+    "name": "Hans Baldung.jpg",
+    "rel": "艺术家词典\\Hans Baldung.jpg",
+    "ext": ".jpg",
+    "bytes": 312351,
+    "type": "image_asset"
+  },
+  {
+    "name": "Hans Bellmer.jpg",
+    "rel": "艺术家词典\\Hans Bellmer.jpg",
+    "ext": ".jpg",
+    "bytes": 499251,
+    "type": "image_asset"
+  },
+  {
+    "name": "Harold Elliott.jpg",
+    "rel": "艺术家词典\\Harold Elliott.jpg",
+    "ext": ".jpg",
+    "bytes": 301419,
+    "type": "image_asset"
+  },
+  {
+    "name": "Harriet Backer.jpg",
+    "rel": "艺术家词典\\Harriet Backer.jpg",
+    "ext": ".jpg",
+    "bytes": 485455,
+    "type": "image_asset"
+  },
+  {
+    "name": "Harry Clarke.jpg",
+    "rel": "艺术家词典\\Harry Clarke.jpg",
+    "ext": ".jpg",
+    "bytes": 366683,
+    "type": "image_asset"
+  },
+  {
+    "name": "Heinrich Lefler.jpg",
+    "rel": "艺术家词典\\Heinrich Lefler.jpg",
+    "ext": ".jpg",
+    "bytes": 459552,
+    "type": "image_asset"
+  },
+  {
+    "name": "Henri de Toulouse-Lautrec.jpg",
+    "rel": "艺术家词典\\Henri de Toulouse-Lautrec.jpg",
+    "ext": ".jpg",
+    "bytes": 367528,
+    "type": "image_asset"
+  },
+  {
+    "name": "Henri Matisse.jpg",
+    "rel": "艺术家词典\\Henri Matisse.jpg",
+    "ext": ".jpg",
+    "bytes": 253348,
+    "type": "image_asset"
+  },
+  {
+    "name": "Henri Rousseau.jpg",
+    "rel": "艺术家词典\\Henri Rousseau.jpg",
+    "ext": ".jpg",
+    "bytes": 448356,
+    "type": "image_asset"
+  },
+  {
+    "name": "Henri-Edmond Cross.jpg",
+    "rel": "艺术家词典\\Henri-Edmond Cross.jpg",
+    "ext": ".jpg",
+    "bytes": 292444,
+    "type": "image_asset"
+  },
+  {
+    "name": "Henriette Grindat.jpg",
+    "rel": "艺术家词典\\Henriette Grindat.jpg",
+    "ext": ".jpg",
+    "bytes": 335749,
+    "type": "image_asset"
+  },
+  {
+    "name": "Henry Fuseli.jpg",
+    "rel": "艺术家词典\\Henry Fuseli.jpg",
+    "ext": ".jpg",
+    "bytes": 219622,
+    "type": "image_asset"
+  },
+  {
+    "name": "Henry Ossawa Tanner.jpg",
+    "rel": "艺术家词典\\Henry Ossawa Tanner.jpg",
+    "ext": ".jpg",
+    "bytes": 316089,
+    "type": "image_asset"
+  },
+  {
+    "name": "Hieronymous Bosch.jpg",
+    "rel": "艺术家词典\\Hieronymous Bosch.jpg",
+    "ext": ".jpg",
+    "bytes": 282081,
+    "type": "image_asset"
+  },
+  {
+    "name": "Hieronymus Bosch.jpg",
+    "rel": "艺术家词典\\Hieronymus Bosch.jpg",
+    "ext": ".jpg",
+    "bytes": 273203,
+    "type": "image_asset"
+  },
+  {
+    "name": "Hilma af Klint.jpg",
+    "rel": "艺术家词典\\Hilma af Klint.jpg",
+    "ext": ".jpg",
+    "bytes": 250306,
+    "type": "image_asset"
+  },
+  {
+    "name": "Hirohiko Araki.jpg",
+    "rel": "艺术家词典\\Hirohiko Araki.jpg",
+    "ext": ".jpg",
+    "bytes": 536322,
+    "type": "image_asset"
+  },
+  {
+    "name": "Raymond Briggs(1).jpg",
+    "rel": "艺术家词典\\Raymond Briggs(1).jpg",
+    "ext": ".jpg",
+    "bytes": 453004,
+    "type": "image_asset"
+  },
+  {
+    "name": "Raymond Briggs.jpg",
+    "rel": "艺术家词典\\Raymond Briggs.jpg",
+    "ext": ".jpg",
+    "bytes": 453004,
+    "type": "image_asset"
+  },
+  {
+    "name": "Raymond Swanland(1).jpg",
+    "rel": "艺术家词典\\Raymond Swanland(1).jpg",
+    "ext": ".jpg",
+    "bytes": 355986,
+    "type": "image_asset"
+  },
+  {
+    "name": "Raymond Swanland.jpg",
+    "rel": "艺术家词典\\Raymond Swanland.jpg",
+    "ext": ".jpg",
+    "bytes": 355986,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rebecca Guay(1).jpg",
+    "rel": "艺术家词典\\Rebecca Guay(1).jpg",
+    "ext": ".jpg",
+    "bytes": 351845,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rebecca Guay.jpg",
+    "rel": "艺术家词典\\Rebecca Guay.jpg",
+    "ext": ".jpg",
+    "bytes": 351845,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rembrandt van Rjin(1).jpg",
+    "rel": "艺术家词典\\Rembrandt van Rjin(1).jpg",
+    "ext": ".jpg",
+    "bytes": 223843,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rembrandt van Rjin.jpg",
+    "rel": "艺术家词典\\Rembrandt van Rjin.jpg",
+    "ext": ".jpg",
+    "bytes": 223843,
+    "type": "image_asset"
+  },
+  {
+    "name": "Remedios Varo(1).jpg",
+    "rel": "艺术家词典\\Remedios Varo(1).jpg",
+    "ext": ".jpg",
+    "bytes": 363177,
+    "type": "image_asset"
+  },
+  {
+    "name": "Remedios Varo.jpg",
+    "rel": "艺术家词典\\Remedios Varo.jpg",
+    "ext": ".jpg",
+    "bytes": 363177,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rene Magritte(1).jpg",
+    "rel": "艺术家词典\\Rene Magritte(1).jpg",
+    "ext": ".jpg",
+    "bytes": 195314,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rene Magritte.jpg",
+    "rel": "艺术家词典\\Rene Magritte.jpg",
+    "ext": ".jpg",
+    "bytes": 195314,
+    "type": "image_asset"
+  },
+  {
+    "name": "RHADS(1).jpg",
+    "rel": "艺术家词典\\RHADS(1).jpg",
+    "ext": ".jpg",
+    "bytes": 229845,
+    "type": "image_asset"
+  },
+  {
+    "name": "RHADS.jpg",
+    "rel": "艺术家词典\\RHADS.jpg",
+    "ext": ".jpg",
+    "bytes": 229845,
+    "type": "image_asset"
+  },
+  {
+    "name": "Richard Corben(1).jpg",
+    "rel": "艺术家词典\\Richard Corben(1).jpg",
+    "ext": ".jpg",
+    "bytes": 295251,
+    "type": "image_asset"
+  },
+  {
+    "name": "Richard Corben.jpg",
+    "rel": "艺术家词典\\Richard Corben.jpg",
+    "ext": ".jpg",
+    "bytes": 295251,
+    "type": "image_asset"
+  },
+  {
+    "name": "Richard Dadd(1).jpg",
+    "rel": "艺术家词典\\Richard Dadd(1).jpg",
+    "ext": ".jpg",
+    "bytes": 390688,
+    "type": "image_asset"
+  },
+  {
+    "name": "Richard Dadd.jpg",
+    "rel": "艺术家词典\\Richard Dadd.jpg",
+    "ext": ".jpg",
+    "bytes": 390688,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rob Gonsalves(1).jpg",
+    "rel": "艺术家词典\\Rob Gonsalves(1).jpg",
+    "ext": ".jpg",
+    "bytes": 353043,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rob Gonsalves.jpg",
+    "rel": "艺术家词典\\Rob Gonsalves.jpg",
+    "ext": ".jpg",
+    "bytes": 353043,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rob Liefeld(1).jpg",
+    "rel": "艺术家词典\\Rob Liefeld(1).jpg",
+    "ext": ".jpg",
+    "bytes": 320156,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rob Liefeld.jpg",
+    "rel": "艺术家词典\\Rob Liefeld.jpg",
+    "ext": ".jpg",
+    "bytes": 320156,
+    "type": "image_asset"
+  },
+  {
+    "name": "Robert Antoine Pinchon(1).jpg",
+    "rel": "艺术家词典\\Robert Antoine Pinchon(1).jpg",
+    "ext": ".jpg",
+    "bytes": 479677,
+    "type": "image_asset"
+  },
+  {
+    "name": "Robert Antoine Pinchon.jpg",
+    "rel": "艺术家词典\\Robert Antoine Pinchon.jpg",
+    "ext": ".jpg",
+    "bytes": 479677,
+    "type": "image_asset"
+  },
+  {
+    "name": "Robert Crumb(1).jpg",
+    "rel": "艺术家词典\\Robert Crumb(1).jpg",
+    "ext": ".jpg",
+    "bytes": 319710,
+    "type": "image_asset"
+  },
+  {
+    "name": "Robert Crumb.jpg",
+    "rel": "艺术家词典\\Robert Crumb.jpg",
+    "ext": ".jpg",
+    "bytes": 319710,
+    "type": "image_asset"
+  },
+  {
+    "name": "Robert McCall(1).jpg",
+    "rel": "艺术家词典\\Robert McCall(1).jpg",
+    "ext": ".jpg",
+    "bytes": 330894,
+    "type": "image_asset"
+  },
+  {
+    "name": "Robert McCall.jpg",
+    "rel": "艺术家词典\\Robert McCall.jpg",
+    "ext": ".jpg",
+    "bytes": 330894,
+    "type": "image_asset"
+  },
+  {
+    "name": "Robert Motherwell(1).jpg",
+    "rel": "艺术家词典\\Robert Motherwell(1).jpg",
+    "ext": ".jpg",
+    "bytes": 220539,
+    "type": "image_asset"
+  },
+  {
+    "name": "Robert Motherwell.jpg",
+    "rel": "艺术家词典\\Robert Motherwell.jpg",
+    "ext": ".jpg",
+    "bytes": 220539,
+    "type": "image_asset"
+  },
+  {
+    "name": "Robert Rauschenberg(1).jpg",
+    "rel": "艺术家词典\\Robert Rauschenberg(1).jpg",
+    "ext": ".jpg",
+    "bytes": 368595,
+    "type": "image_asset"
+  },
+  {
+    "name": "Robert Rauschenberg.jpg",
+    "rel": "艺术家词典\\Robert Rauschenberg.jpg",
+    "ext": ".jpg",
+    "bytes": 368595,
+    "type": "image_asset"
+  },
+  {
+    "name": "Roberto Ferri(1).jpg",
+    "rel": "艺术家词典\\Roberto Ferri(1).jpg",
+    "ext": ".jpg",
+    "bytes": 209300,
+    "type": "image_asset"
+  },
+  {
+    "name": "Roberto Ferri.jpg",
+    "rel": "艺术家词典\\Roberto Ferri.jpg",
+    "ext": ".jpg",
+    "bytes": 209300,
+    "type": "image_asset"
+  },
+  {
+    "name": "Roberto Matta(1).jpg",
+    "rel": "艺术家词典\\Roberto Matta(1).jpg",
+    "ext": ".jpg",
+    "bytes": 462659,
+    "type": "image_asset"
+  },
+  {
+    "name": "Roberto Matta.jpg",
+    "rel": "艺术家词典\\Roberto Matta.jpg",
+    "ext": ".jpg",
+    "bytes": 462659,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rockwell Kent(1).jpg",
+    "rel": "艺术家词典\\Rockwell Kent(1).jpg",
+    "ext": ".jpg",
+    "bytes": 444819,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rockwell Kent.jpg",
+    "rel": "艺术家词典\\Rockwell Kent.jpg",
+    "ext": ".jpg",
+    "bytes": 444819,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rodel Gonzalez(1).jpg",
+    "rel": "艺术家词典\\Rodel Gonzalez(1).jpg",
+    "ext": ".jpg",
+    "bytes": 239689,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rodel Gonzalez.jpg",
+    "rel": "艺术家词典\\Rodel Gonzalez.jpg",
+    "ext": ".jpg",
+    "bytes": 239689,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rodney Matthews(1).jpg",
+    "rel": "艺术家词典\\Rodney Matthews(1).jpg",
+    "ext": ".jpg",
+    "bytes": 343818,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rodney Matthews.jpg",
+    "rel": "艺术家词典\\Rodney Matthews.jpg",
+    "ext": ".jpg",
+    "bytes": 343818,
+    "type": "image_asset"
+  },
+  {
+    "name": "Roger Dean(1).jpg",
+    "rel": "艺术家词典\\Roger Dean(1).jpg",
+    "ext": ".jpg",
+    "bytes": 323207,
+    "type": "image_asset"
+  },
+  {
+    "name": "Roger Dean.jpg",
+    "rel": "艺术家词典\\Roger Dean.jpg",
+    "ext": ".jpg",
+    "bytes": 323207,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ron Walotsky(1).jpg",
+    "rel": "艺术家词典\\Ron Walotsky(1).jpg",
+    "ext": ".jpg",
+    "bytes": 327744,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ron Walotsky.jpg",
+    "rel": "艺术家词典\\Ron Walotsky.jpg",
+    "ext": ".jpg",
+    "bytes": 327744,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ross Tran(1).jpg",
+    "rel": "艺术家词典\\Ross Tran(1).jpg",
+    "ext": ".jpg",
+    "bytes": 245451,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ross Tran.jpg",
+    "rel": "艺术家词典\\Ross Tran.jpg",
+    "ext": ".jpg",
+    "bytes": 245451,
+    "type": "image_asset"
+  },
+  {
+    "name": "Roy Lichtenstein(1).jpg",
+    "rel": "艺术家词典\\Roy Lichtenstein(1).jpg",
+    "ext": ".jpg",
+    "bytes": 278215,
+    "type": "image_asset"
+  },
+  {
+    "name": "Roy Lichtenstein.jpg",
+    "rel": "艺术家词典\\Roy Lichtenstein.jpg",
+    "ext": ".jpg",
+    "bytes": 278215,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rudolf Hausner(1).jpg",
+    "rel": "艺术家词典\\Rudolf Hausner(1).jpg",
+    "ext": ".jpg",
+    "bytes": 264601,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rudolf Hausner.jpg",
+    "rel": "艺术家词典\\Rudolf Hausner.jpg",
+    "ext": ".jpg",
+    "bytes": 264601,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rufino Tamayo(1).jpg",
+    "rel": "艺术家词典\\Rufino Tamayo(1).jpg",
+    "ext": ".jpg",
+    "bytes": 271759,
+    "type": "image_asset"
+  },
+  {
+    "name": "Rufino Tamayo.jpg",
+    "rel": "艺术家词典\\Rufino Tamayo.jpg",
+    "ext": ".jpg",
+    "bytes": 271759,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ryohei Hase(1).jpg",
+    "rel": "艺术家词典\\Ryohei Hase(1).jpg",
+    "ext": ".jpg",
+    "bytes": 243441,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ryohei Hase.jpg",
+    "rel": "艺术家词典\\Ryohei Hase.jpg",
+    "ext": ".jpg",
+    "bytes": 243441,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sailor Moon(1).jpg",
+    "rel": "艺术家词典\\Sailor Moon(1).jpg",
+    "ext": ".jpg",
+    "bytes": 285963,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sailor Moon.jpg",
+    "rel": "艺术家词典\\Sailor Moon.jpg",
+    "ext": ".jpg",
+    "bytes": 285963,
+    "type": "image_asset"
+  },
+  {
+    "name": "Salvador Dali(1).jpg",
+    "rel": "艺术家词典\\Salvador Dali(1).jpg",
+    "ext": ".jpg",
+    "bytes": 320859,
+    "type": "image_asset"
+  },
+  {
+    "name": "Salvador Dali(2).jpg",
+    "rel": "艺术家词典\\Salvador Dali(2).jpg",
+    "ext": ".jpg",
+    "bytes": 320859,
+    "type": "image_asset"
+  },
+  {
+    "name": "Salvador Dali.jpg",
+    "rel": "艺术家词典\\Salvador Dali.jpg",
+    "ext": ".jpg",
+    "bytes": 320859,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sam Bosma(1).jpg",
+    "rel": "艺术家词典\\Sam Bosma(1).jpg",
+    "ext": ".jpg",
+    "bytes": 458023,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sam Bosma(2).jpg",
+    "rel": "艺术家词典\\Sam Bosma(2).jpg",
+    "ext": ".jpg",
+    "bytes": 458023,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sam Bosma.jpg",
+    "rel": "艺术家词典\\Sam Bosma.jpg",
+    "ext": ".jpg",
+    "bytes": 458023,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sandro Botticelli(1).jpg",
+    "rel": "艺术家词典\\Sandro Botticelli(1).jpg",
+    "ext": ".jpg",
+    "bytes": 319686,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sandro Botticelli.jpg",
+    "rel": "艺术家词典\\Sandro Botticelli.jpg",
+    "ext": ".jpg",
+    "bytes": 319686,
+    "type": "image_asset"
+  },
+  {
+    "name": "Santiago Caruso(1).jpg",
+    "rel": "艺术家词典\\Santiago Caruso(1).jpg",
+    "ext": ".jpg",
+    "bytes": 312165,
+    "type": "image_asset"
+  },
+  {
+    "name": "Santiago Caruso.jpg",
+    "rel": "艺术家词典\\Santiago Caruso.jpg",
+    "ext": ".jpg",
+    "bytes": 312165,
+    "type": "image_asset"
+  },
+  {
+    "name": "Shinji Aramaki(1).jpg",
+    "rel": "艺术家词典\\Shinji Aramaki(1).jpg",
+    "ext": ".jpg",
+    "bytes": 517449,
+    "type": "image_asset"
+  },
+  {
+    "name": "Shinji Aramaki.jpg",
+    "rel": "艺术家词典\\Shinji Aramaki.jpg",
+    "ext": ".jpg",
+    "bytes": 517449,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sidney Nolan(1).jpg",
+    "rel": "艺术家词典\\Sidney Nolan(1).jpg",
+    "ext": ".jpg",
+    "bytes": 361156,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sidney Nolan.jpg",
+    "rel": "艺术家词典\\Sidney Nolan.jpg",
+    "ext": ".jpg",
+    "bytes": 361156,
+    "type": "image_asset"
+  },
+  {
+    "name": "Simon Bisley(1).jpg",
+    "rel": "艺术家词典\\Simon Bisley(1).jpg",
+    "ext": ".jpg",
+    "bytes": 368845,
+    "type": "image_asset"
+  },
+  {
+    "name": "Simon Bisley.jpg",
+    "rel": "艺术家词典\\Simon Bisley.jpg",
+    "ext": ".jpg",
+    "bytes": 368845,
+    "type": "image_asset"
+  },
+  {
+    "name": "Simon Stalenhag(1).jpg",
+    "rel": "艺术家词典\\Simon Stalenhag(1).jpg",
+    "ext": ".jpg",
+    "bytes": 322315,
+    "type": "image_asset"
+  },
+  {
+    "name": "Simon Stalenhag.jpg",
+    "rel": "艺术家词典\\Simon Stalenhag.jpg",
+    "ext": ".jpg",
+    "bytes": 322315,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sonia Delaunay(1).jpg",
+    "rel": "艺术家词典\\Sonia Delaunay(1).jpg",
+    "ext": ".jpg",
+    "bytes": 264762,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sonia Delaunay.jpg",
+    "rel": "艺术家词典\\Sonia Delaunay.jpg",
+    "ext": ".jpg",
+    "bytes": 264762,
+    "type": "image_asset"
+  },
+  {
+    "name": "Stephen Gammell(1).jpg",
+    "rel": "艺术家词典\\Stephen Gammell(1).jpg",
+    "ext": ".jpg",
+    "bytes": 281489,
+    "type": "image_asset"
+  },
+  {
+    "name": "Stephen Gammell.jpg",
+    "rel": "艺术家词典\\Stephen Gammell.jpg",
+    "ext": ".jpg",
+    "bytes": 281489,
+    "type": "image_asset"
+  },
+  {
+    "name": "Steve Ditko(1).jpg",
+    "rel": "艺术家词典\\Steve Ditko(1).jpg",
+    "ext": ".jpg",
+    "bytes": 262823,
+    "type": "image_asset"
+  },
+  {
+    "name": "Steve Ditko.jpg",
+    "rel": "艺术家词典\\Steve Ditko.jpg",
+    "ext": ".jpg",
+    "bytes": 262823,
+    "type": "image_asset"
+  },
+  {
+    "name": "Storm Thorgerson(1).jpg",
+    "rel": "艺术家词典\\Storm Thorgerson(1).jpg",
+    "ext": ".jpg",
+    "bytes": 283333,
+    "type": "image_asset"
+  },
+  {
+    "name": "Storm Thorgerson.jpg",
+    "rel": "艺术家词典\\Storm Thorgerson.jpg",
+    "ext": ".jpg",
+    "bytes": 283333,
+    "type": "image_asset"
+  },
+  {
+    "name": "Stuart Davis(1).jpg",
+    "rel": "艺术家词典\\Stuart Davis(1).jpg",
+    "ext": ".jpg",
+    "bytes": 248459,
+    "type": "image_asset"
+  },
+  {
+    "name": "Stuart Davis.jpg",
+    "rel": "艺术家词典\\Stuart Davis.jpg",
+    "ext": ".jpg",
+    "bytes": 248459,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sven Nordqvist(1).jpg",
+    "rel": "艺术家词典\\Sven Nordqvist(1).jpg",
+    "ext": ".jpg",
+    "bytes": 256091,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sven Nordqvist.jpg",
+    "rel": "艺术家词典\\Sven Nordqvist.jpg",
+    "ext": ".jpg",
+    "bytes": 256091,
+    "type": "image_asset"
+  },
+  {
+    "name": "Syd Mead(1).jpg",
+    "rel": "艺术家词典\\Syd Mead(1).jpg",
+    "ext": ".jpg",
+    "bytes": 283393,
+    "type": "image_asset"
+  },
+  {
+    "name": "Syd Mead.jpg",
+    "rel": "艺术家词典\\Syd Mead.jpg",
+    "ext": ".jpg",
+    "bytes": 283393,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sydney Prior Hall(1).jpg",
+    "rel": "艺术家词典\\Sydney Prior Hall(1).jpg",
+    "ext": ".jpg",
+    "bytes": 385117,
+    "type": "image_asset"
+  },
+  {
+    "name": "Sydney Prior Hall.jpg",
+    "rel": "艺术家词典\\Sydney Prior Hall.jpg",
+    "ext": ".jpg",
+    "bytes": 385117,
+    "type": "image_asset"
+  },
+  {
+    "name": "Taiyo Matsumoto(1).jpg",
+    "rel": "艺术家词典\\Taiyo Matsumoto(1).jpg",
+    "ext": ".jpg",
+    "bytes": 244840,
+    "type": "image_asset"
+  },
+  {
+    "name": "Taiyo Matsumoto.jpg",
+    "rel": "艺术家词典\\Taiyo Matsumoto.jpg",
+    "ext": ".jpg",
+    "bytes": 244840,
+    "type": "image_asset"
+  },
+  {
+    "name": "Takashi Murakami(1).jpg",
+    "rel": "艺术家词典\\Takashi Murakami(1).jpg",
+    "ext": ".jpg",
+    "bytes": 418949,
+    "type": "image_asset"
+  },
+  {
+    "name": "Takashi Murakami.jpg",
+    "rel": "艺术家词典\\Takashi Murakami.jpg",
+    "ext": ".jpg",
+    "bytes": 418949,
+    "type": "image_asset"
+  },
+  {
+    "name": "Takato Yamamoto(1).jpg",
+    "rel": "艺术家词典\\Takato Yamamoto(1).jpg",
+    "ext": ".jpg",
+    "bytes": 511178,
+    "type": "image_asset"
+  },
+  {
+    "name": "Takato Yamamoto.jpg",
+    "rel": "艺术家词典\\Takato Yamamoto.jpg",
+    "ext": ".jpg",
+    "bytes": 511178,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ted Nasmith(1).jpg",
+    "rel": "艺术家词典\\Ted Nasmith(1).jpg",
+    "ext": ".jpg",
+    "bytes": 389011,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ted Nasmith.jpg",
+    "rel": "艺术家词典\\Ted Nasmith.jpg",
+    "ext": ".jpg",
+    "bytes": 389011,
+    "type": "image_asset"
+  },
+  {
+    "name": "Terry Oakes(1).jpg",
+    "rel": "艺术家词典\\Terry Oakes(1).jpg",
+    "ext": ".jpg",
+    "bytes": 328368,
+    "type": "image_asset"
+  },
+  {
+    "name": "Terry Oakes.jpg",
+    "rel": "艺术家词典\\Terry Oakes.jpg",
+    "ext": ".jpg",
+    "bytes": 328368,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tex Avery(1).jpg",
+    "rel": "艺术家词典\\Tex Avery(1).jpg",
+    "ext": ".jpg",
+    "bytes": 286656,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tex Avery.jpg",
+    "rel": "艺术家词典\\Tex Avery.jpg",
+    "ext": ".jpg",
+    "bytes": 286656,
+    "type": "image_asset"
+  },
+  {
+    "name": "Thomas Cole(1).jpg",
+    "rel": "艺术家词典\\Thomas Cole(1).jpg",
+    "ext": ".jpg",
+    "bytes": 258812,
+    "type": "image_asset"
+  },
+  {
+    "name": "Thomas Cole.jpg",
+    "rel": "艺术家词典\\Thomas Cole.jpg",
+    "ext": ".jpg",
+    "bytes": 258812,
+    "type": "image_asset"
+  },
+  {
+    "name": "Thomas Kinkade(1).jpg",
+    "rel": "艺术家词典\\Thomas Kinkade(1).jpg",
+    "ext": ".jpg",
+    "bytes": 360493,
+    "type": "image_asset"
+  },
+  {
+    "name": "Thomas Kinkade.jpg",
+    "rel": "艺术家词典\\Thomas Kinkade.jpg",
+    "ext": ".jpg",
+    "bytes": 360493,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tim Doyle(1).jpg",
+    "rel": "艺术家词典\\Tim Doyle(1).jpg",
+    "ext": ".jpg",
+    "bytes": 288376,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tim Doyle.jpg",
+    "rel": "艺术家词典\\Tim Doyle.jpg",
+    "ext": ".jpg",
+    "bytes": 288376,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tim Hildebrandt(1).jpg",
+    "rel": "艺术家词典\\Tim Hildebrandt(1).jpg",
+    "ext": ".jpg",
+    "bytes": 389796,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tim Hildebrandt.jpg",
+    "rel": "艺术家词典\\Tim Hildebrandt.jpg",
+    "ext": ".jpg",
+    "bytes": 389796,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tim White(1).jpg",
+    "rel": "艺术家词典\\Tim White(1).jpg",
+    "ext": ".jpg",
+    "bytes": 222097,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tim White.jpg",
+    "rel": "艺术家词典\\Tim White.jpg",
+    "ext": ".jpg",
+    "bytes": 222097,
+    "type": "image_asset"
+  },
+  {
+    "name": "Titian(1).jpg",
+    "rel": "艺术家词典\\Titian(1).jpg",
+    "ext": ".jpg",
+    "bytes": 301569,
+    "type": "image_asset"
+  },
+  {
+    "name": "Titian.jpg",
+    "rel": "艺术家词典\\Titian.jpg",
+    "ext": ".jpg",
+    "bytes": 301569,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tom Bagshaw(1).jpg",
+    "rel": "艺术家词典\\Tom Bagshaw(1).jpg",
+    "ext": ".jpg",
+    "bytes": 389909,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tom Bagshaw.jpg",
+    "rel": "艺术家词典\\Tom Bagshaw.jpg",
+    "ext": ".jpg",
+    "bytes": 389909,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tom Thomson(1).jpg",
+    "rel": "艺术家词典\\Tom Thomson(1).jpg",
+    "ext": ".jpg",
+    "bytes": 356614,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tom Thomson.jpg",
+    "rel": "艺术家词典\\Tom Thomson.jpg",
+    "ext": ".jpg",
+    "bytes": 356614,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tomer Hanuka(1).jpg",
+    "rel": "艺术家词典\\Tomer Hanuka(1).jpg",
+    "ext": ".jpg",
+    "bytes": 271352,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tomer Hanuka.jpg",
+    "rel": "艺术家词典\\Tomer Hanuka.jpg",
+    "ext": ".jpg",
+    "bytes": 271352,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tony DiTerlizzi(1).jpg",
+    "rel": "艺术家词典\\Tony DiTerlizzi(1).jpg",
+    "ext": ".jpg",
+    "bytes": 283782,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tony DiTerlizzi.jpg",
+    "rel": "艺术家词典\\Tony DiTerlizzi.jpg",
+    "ext": ".jpg",
+    "bytes": 283782,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tyler Edlin(1).jpg",
+    "rel": "艺术家词典\\Tyler Edlin(1).jpg",
+    "ext": ".jpg",
+    "bytes": 253386,
+    "type": "image_asset"
+  },
+  {
+    "name": "Tyler Edlin.jpg",
+    "rel": "艺术家词典\\Tyler Edlin.jpg",
+    "ext": ".jpg",
+    "bytes": 253386,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ueda Fumito(1).jpg",
+    "rel": "艺术家词典\\Ueda Fumito(1).jpg",
+    "ext": ".jpg",
+    "bytes": 434353,
+    "type": "image_asset"
+  },
+  {
+    "name": "Ueda Fumito.jpg",
+    "rel": "艺术家词典\\Ueda Fumito.jpg",
+    "ext": ".jpg",
+    "bytes": 434353,
+    "type": "image_asset"
+  },
+  {
+    "name": "Valentine Hugo(1).jpg",
+    "rel": "艺术家词典\\Valentine Hugo(1).jpg",
+    "ext": ".jpg",
+    "bytes": 295605,
+    "type": "image_asset"
+  },
+  {
+    "name": "Valentine Hugo.jpg",
+    "rel": "艺术家词典\\Valentine Hugo.jpg",
+    "ext": ".jpg",
+    "bytes": 295605,
+    "type": "image_asset"
+  },
+  {
+    "name": "Victo Ngai(1).jpg",
+    "rel": "艺术家词典\\Victo Ngai(1).jpg",
+    "ext": ".jpg",
+    "bytes": 353073,
+    "type": "image_asset"
+  },
+  {
+    "name": "Victo Ngai.jpg",
+    "rel": "艺术家词典\\Victo Ngai.jpg",
+    "ext": ".jpg",
+    "bytes": 353073,
+    "type": "image_asset"
+  },
+  {
+    "name": "Victor Adame Minguez(1).jpg",
+    "rel": "艺术家词典\\Victor Adame Minguez(1).jpg",
+    "ext": ".jpg",
+    "bytes": 327517,
+    "type": "image_asset"
+  },
+  {
+    "name": "Victor Adame Minguez.jpg",
+    "rel": "艺术家词典\\Victor Adame Minguez.jpg",
+    "ext": ".jpg",
+    "bytes": 327517,
+    "type": "image_asset"
+  },
+  {
+    "name": "Victor Brauner(1).jpg",
+    "rel": "艺术家词典\\Victor Brauner(1).jpg",
+    "ext": ".jpg",
+    "bytes": 259464,
+    "type": "image_asset"
+  },
+  {
+    "name": "Victor Brauner.jpg",
+    "rel": "艺术家词典\\Victor Brauner.jpg",
+    "ext": ".jpg",
+    "bytes": 259464,
+    "type": "image_asset"
+  },
+  {
+    "name": "Victor Moscoso(1).jpg",
+    "rel": "艺术家词典\\Victor Moscoso(1).jpg",
+    "ext": ".jpg",
+    "bytes": 256591,
+    "type": "image_asset"
+  },
+  {
+    "name": "Victor Moscoso.jpg",
+    "rel": "艺术家词典\\Victor Moscoso.jpg",
+    "ext": ".jpg",
+    "bytes": 256591,
+    "type": "image_asset"
+  },
+  {
+    "name": "Viktor Vasnetsov(1).jpg",
+    "rel": "艺术家词典\\Viktor Vasnetsov(1).jpg",
+    "ext": ".jpg",
+    "bytes": 454492,
+    "type": "image_asset"
+  },
+  {
+    "name": "Viktor Vasnetsov.jpg",
+    "rel": "艺术家词典\\Viktor Vasnetsov.jpg",
+    "ext": ".jpg",
+    "bytes": 454492,
+    "type": "image_asset"
+  },
+  {
+    "name": "Vincent Di Fate(1).jpg",
+    "rel": "艺术家词典\\Vincent Di Fate(1).jpg",
+    "ext": ".jpg",
+    "bytes": 243344,
+    "type": "image_asset"
+  },
+  {
+    "name": "Vincent Di Fate.jpg",
+    "rel": "艺术家词典\\Vincent Di Fate.jpg",
+    "ext": ".jpg",
+    "bytes": 243344,
+    "type": "image_asset"
+  },
+  {
+    "name": "Vincent van Gogh(1).jpg",
+    "rel": "艺术家词典\\Vincent van Gogh(1).jpg",
+    "ext": ".jpg",
+    "bytes": 483152,
+    "type": "image_asset"
+  },
+  {
+    "name": "Vincent van Gogh.jpg",
+    "rel": "艺术家词典\\Vincent van Gogh.jpg",
+    "ext": ".jpg",
+    "bytes": 483152,
+    "type": "image_asset"
+  },
+  {
+    "name": "Virgil Finlay(1).jpg",
+    "rel": "艺术家词典\\Virgil Finlay(1).jpg",
+    "ext": ".jpg",
+    "bytes": 487509,
+    "type": "image_asset"
+  },
+  {
+    "name": "Virgil Finlay.jpg",
+    "rel": "艺术家词典\\Virgil Finlay.jpg",
+    "ext": ".jpg",
+    "bytes": 487509,
+    "type": "image_asset"
+  },
+  {
+    "name": "Walt Disney(1).jpg",
+    "rel": "艺术家词典\\Walt Disney(1).jpg",
+    "ext": ".jpg",
+    "bytes": 270810,
+    "type": "image_asset"
+  },
+  {
+    "name": "Walt Disney.jpg",
+    "rel": "艺术家词典\\Walt Disney.jpg",
+    "ext": ".jpg",
+    "bytes": 270810,
+    "type": "image_asset"
+  },
+  {
+    "name": "Walter Crane(1).jpg",
+    "rel": "艺术家词典\\Walter Crane(1).jpg",
+    "ext": ".jpg",
+    "bytes": 357749,
+    "type": "image_asset"
+  },
+  {
+    "name": "Walter Crane.jpg",
+    "rel": "艺术家词典\\Walter Crane.jpg",
+    "ext": ".jpg",
+    "bytes": 357749,
+    "type": "image_asset"
+  },
+  {
+    "name": "Walter Percy Day(1).jpg",
+    "rel": "艺术家词典\\Walter Percy Day(1).jpg",
+    "ext": ".jpg",
+    "bytes": 262775,
+    "type": "image_asset"
+  },
+  {
+    "name": "Walter Percy Day.jpg",
+    "rel": "艺术家词典\\Walter Percy Day.jpg",
+    "ext": ".jpg",
+    "bytes": 262775,
+    "type": "image_asset"
+  },
+  {
+    "name": "Warwick Goble(1).jpg",
+    "rel": "艺术家词典\\Warwick Goble(1).jpg",
+    "ext": ".jpg",
+    "bytes": 351319,
+    "type": "image_asset"
+  },
+  {
+    "name": "Warwick Goble.jpg",
+    "rel": "艺术家词典\\Warwick Goble.jpg",
+    "ext": ".jpg",
+    "bytes": 351319,
+    "type": "image_asset"
+  },
+  {
+    "name": "Wassily Kandinsky(1).jpg",
+    "rel": "艺术家词典\\Wassily Kandinsky(1).jpg",
+    "ext": ".jpg",
+    "bytes": 231526,
+    "type": "image_asset"
+  },
+  {
+    "name": "Wassily Kandinsky.jpg",
+    "rel": "艺术家词典\\Wassily Kandinsky.jpg",
+    "ext": ".jpg",
+    "bytes": 231526,
+    "type": "image_asset"
+  },
+  {
+    "name": "Wayne Barlowe(1).jpg",
+    "rel": "艺术家词典\\Wayne Barlowe(1).jpg",
+    "ext": ".jpg",
+    "bytes": 332293,
+    "type": "image_asset"
+  },
+  {
+    "name": "Wayne Barlowe.jpg",
+    "rel": "艺术家词典\\Wayne Barlowe.jpg",
+    "ext": ".jpg",
+    "bytes": 332293,
+    "type": "image_asset"
+  },
+  {
+    "name": "Wendy Froud(1).jpg",
+    "rel": "艺术家词典\\Wendy Froud(1).jpg",
+    "ext": ".jpg",
+    "bytes": 333269,
+    "type": "image_asset"
+  },
+  {
+    "name": "Wendy Froud.jpg",
+    "rel": "艺术家词典\\Wendy Froud.jpg",
+    "ext": ".jpg",
+    "bytes": 333269,
+    "type": "image_asset"
+  },
+  {
+    "name": "Wes Anderson(1).jpg",
+    "rel": "艺术家词典\\Wes Anderson(1).jpg",
+    "ext": ".jpg",
+    "bytes": 251093,
+    "type": "image_asset"
+  },
+  {
+    "name": "Wes Anderson.jpg",
+    "rel": "艺术家词典\\Wes Anderson.jpg",
+    "ext": ".jpg",
+    "bytes": 251093,
+    "type": "image_asset"
+  },
+  {
+    "name": "Wilfredo Lam(1).jpg",
+    "rel": "艺术家词典\\Wilfredo Lam(1).jpg",
+    "ext": ".jpg",
+    "bytes": 417979,
+    "type": "image_asset"
+  },
+  {
+    "name": "Wilfredo Lam.jpg",
+    "rel": "艺术家词典\\Wilfredo Lam.jpg",
+    "ext": ".jpg",
+    "bytes": 417979,
+    "type": "image_asset"
+  },
+  {
+    "name": "Willem de Kooning(1).jpg",
+    "rel": "艺术家词典\\Willem de Kooning(1).jpg",
+    "ext": ".jpg",
+    "bytes": 508070,
+    "type": "image_asset"
+  },
+  {
+    "name": "Willem de Kooning.jpg",
+    "rel": "艺术家词典\\Willem de Kooning.jpg",
+    "ext": ".jpg",
+    "bytes": 508070,
+    "type": "image_asset"
+  },
+  {
+    "name": "Willem van Haecht(1).jpg",
+    "rel": "艺术家词典\\Willem van Haecht(1).jpg",
+    "ext": ".jpg",
+    "bytes": 305124,
+    "type": "image_asset"
+  },
+  {
+    "name": "Willem van Haecht.jpg",
+    "rel": "艺术家词典\\Willem van Haecht.jpg",
+    "ext": ".jpg",
+    "bytes": 305124,
+    "type": "image_asset"
+  },
+  {
+    "name": "William Blake(1).jpg",
+    "rel": "艺术家词典\\William Blake(1).jpg",
+    "ext": ".jpg",
+    "bytes": 303048,
+    "type": "image_asset"
+  },
+  {
+    "name": "William Blake.jpg",
+    "rel": "艺术家词典\\William Blake.jpg",
+    "ext": ".jpg",
+    "bytes": 303048,
+    "type": "image_asset"
+  },
+  {
+    "name": "William Gropper(1).jpg",
+    "rel": "艺术家词典\\William Gropper(1).jpg",
+    "ext": ".jpg",
+    "bytes": 289068,
+    "type": "image_asset"
+  },
+  {
+    "name": "William Gropper.jpg",
+    "rel": "艺术家词典\\William Gropper.jpg",
+    "ext": ".jpg",
+    "bytes": 289068,
+    "type": "image_asset"
+  },
+  {
+    "name": "William Hogarth(1).jpg",
+    "rel": "艺术家词典\\William Hogarth(1).jpg",
+    "ext": ".jpg",
+    "bytes": 317470,
+    "type": "image_asset"
+  },
+  {
+    "name": "William Hogarth.jpg",
+    "rel": "艺术家词典\\William Hogarth.jpg",
+    "ext": ".jpg",
+    "bytes": 317470,
+    "type": "image_asset"
+  },
+  {
+    "name": "William Stout(1).jpg",
+    "rel": "艺术家词典\\William Stout(1).jpg",
+    "ext": ".jpg",
+    "bytes": 507915,
+    "type": "image_asset"
+  },
+  {
+    "name": "William Stout.jpg",
+    "rel": "艺术家词典\\William Stout.jpg",
+    "ext": ".jpg",
+    "bytes": 507915,
+    "type": "image_asset"
+  },
+  {
+    "name": "William-Adolphe Bouguereau(1).jpg",
+    "rel": "艺术家词典\\William-Adolphe Bouguereau(1).jpg",
+    "ext": ".jpg",
+    "bytes": 365853,
+    "type": "image_asset"
+  },
+  {
+    "name": "William-Adolphe Bouguereau.jpg",
+    "rel": "艺术家词典\\William-Adolphe Bouguereau.jpg",
+    "ext": ".jpg",
+    "bytes": 365853,
+    "type": "image_asset"
+  },
+  {
+    "name": "Winslow Homer(1).jpg",
+    "rel": "艺术家词典\\Winslow Homer(1).jpg",
+    "ext": ".jpg",
+    "bytes": 287935,
+    "type": "image_asset"
+  },
+  {
+    "name": "Winslow Homer.jpg",
+    "rel": "艺术家词典\\Winslow Homer.jpg",
+    "ext": ".jpg",
+    "bytes": 287935,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yanjun Cheng(1).jpg",
+    "rel": "艺术家词典\\Yanjun Cheng(1).jpg",
+    "ext": ".jpg",
+    "bytes": 248571,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yanjun Cheng.jpg",
+    "rel": "艺术家词典\\Yanjun Cheng.jpg",
+    "ext": ".jpg",
+    "bytes": 248571,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yayoi Kusama(1).jpg",
+    "rel": "艺术家词典\\Yayoi Kusama(1).jpg",
+    "ext": ".jpg",
+    "bytes": 258083,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yayoi Kusama.jpg",
+    "rel": "艺术家词典\\Yayoi Kusama.jpg",
+    "ext": ".jpg",
+    "bytes": 258083,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yoshitaka Amano(1).jpg",
+    "rel": "艺术家词典\\Yoshitaka Amano(1).jpg",
+    "ext": ".jpg",
+    "bytes": 404623,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yoshitaka Amano.jpg",
+    "rel": "艺术家词典\\Yoshitaka Amano.jpg",
+    "ext": ".jpg",
+    "bytes": 404623,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yuri Ivanovich Pimenov(1).jpg",
+    "rel": "艺术家词典\\Yuri Ivanovich Pimenov(1).jpg",
+    "ext": ".jpg",
+    "bytes": 309159,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yuri Ivanovich Pimenov.jpg",
+    "rel": "艺术家词典\\Yuri Ivanovich Pimenov.jpg",
+    "ext": ".jpg",
+    "bytes": 309159,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yuumei(1).jpg",
+    "rel": "艺术家词典\\Yuumei(1).jpg",
+    "ext": ".jpg",
+    "bytes": 253170,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yuumei.jpg",
+    "rel": "艺术家词典\\Yuumei.jpg",
+    "ext": ".jpg",
+    "bytes": 253170,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yves Tanguay(1).jpg",
+    "rel": "艺术家词典\\Yves Tanguay(1).jpg",
+    "ext": ".jpg",
+    "bytes": 248125,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yves Tanguay.jpg",
+    "rel": "艺术家词典\\Yves Tanguay.jpg",
+    "ext": ".jpg",
+    "bytes": 248125,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yves Tanguy(1).jpg",
+    "rel": "艺术家词典\\Yves Tanguy(1).jpg",
+    "ext": ".jpg",
+    "bytes": 250038,
+    "type": "image_asset"
+  },
+  {
+    "name": "Yves Tanguy.jpg",
+    "rel": "艺术家词典\\Yves Tanguy.jpg",
+    "ext": ".jpg",
+    "bytes": 250038,
+    "type": "image_asset"
+  },
+  {
+    "name": "Zack Snyder(1).jpg",
+    "rel": "艺术家词典\\Zack Snyder(1).jpg",
+    "ext": ".jpg",
+    "bytes": 266984,
+    "type": "image_asset"
+  },
+  {
+    "name": "Zack Snyder.jpg",
+    "rel": "艺术家词典\\Zack Snyder.jpg",
+    "ext": ".jpg",
+    "bytes": 266984,
+    "type": "image_asset"
+  },
+  {
+    "name": "Zaha Hadid(1).jpg",
+    "rel": "艺术家词典\\Zaha Hadid(1).jpg",
+    "ext": ".jpg",
+    "bytes": 254862,
+    "type": "image_asset"
+  },
+  {
+    "name": "Zaha Hadid.jpg",
+    "rel": "艺术家词典\\Zaha Hadid.jpg",
+    "ext": ".jpg",
+    "bytes": 254862,
+    "type": "image_asset"
+  },
+  {
+    "name": "Zdzislaw Beksinski(1).jpg",
+    "rel": "艺术家词典\\Zdzislaw Beksinski(1).jpg",
+    "ext": ".jpg",
+    "bytes": 260184,
+    "type": "image_asset"
+  },
+  {
+    "name": "Zdzislaw Beksinski.jpg",
+    "rel": "艺术家词典\\Zdzislaw Beksinski.jpg",
+    "ext": ".jpg",
+    "bytes": 260184,
+    "type": "image_asset"
+  },
+  {
+    "name": "Zhichao Cai(1).jpg",
+    "rel": "艺术家词典\\Zhichao Cai(1).jpg",
+    "ext": ".jpg",
+    "bytes": 447141,
+    "type": "image_asset"
+  },
+  {
+    "name": "Zhichao Cai.jpg",
+    "rel": "艺术家词典\\Zhichao Cai.jpg",
+    "ext": ".jpg",
+    "bytes": 447141,
+    "type": "image_asset"
+  },
+  {
+    "name": "训练Chatgpt.doc",
+    "rel": "训练Chatgpt.doc",
+    "ext": ".doc",
+    "bytes": 75776,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "镜头提示词  10秒.txt",
+    "rel": "镜头提示词  10秒.txt",
+    "ext": ".txt",
+    "bytes": 15449,
+    "encoding": "utf-8-sig",
+    "chars": 5666
+  },
+  {
+    "name": "镜头提示词  15秒.txt",
+    "rel": "镜头提示词  15秒.txt",
+    "ext": ".txt",
+    "bytes": 15546,
+    "encoding": "utf-8-sig",
+    "chars": 5711
+  },
+  {
+    "name": "A关键词139.xlsx",
+    "rel": "风景系列\\A关键词139.xlsx",
+    "ext": ".xlsx",
+    "bytes": 1767492,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 21462
+  },
+  {
+    "name": "A关键词141.xlsx",
+    "rel": "风景系列\\A关键词141.xlsx",
+    "ext": ".xlsx",
+    "bytes": 6346652,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 31261
+  },
+  {
+    "name": "A关键词148.xlsx",
+    "rel": "风景系列\\A关键词148.xlsx",
+    "ext": ".xlsx",
+    "bytes": 1963847,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 19984
+  },
+  {
+    "name": "A关键词152.xlsx",
+    "rel": "风景系列\\A关键词152.xlsx",
+    "ext": ".xlsx",
+    "bytes": 1931427,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 22249
+  },
+  {
+    "name": "A关键词188.xlsx",
+    "rel": "风景系列\\A关键词188.xlsx",
+    "ext": ".xlsx",
+    "bytes": 2277859,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 20346
+  },
+  {
+    "name": "A关键词196.xlsx",
+    "rel": "风景系列\\A关键词196.xlsx",
+    "ext": ".xlsx",
+    "bytes": 2439273,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 22020
+  },
+  {
+    "name": "A关键词290.xlsx",
+    "rel": "风景系列\\A关键词290.xlsx",
+    "ext": ".xlsx",
+    "bytes": 3658396,
+    "sheets": [
+      "midjourney prompts"
+    ],
+    "sheet_count": 1,
+    "chars": 19790
+  },
+  {
+    "name": "关键词27.docx",
+    "rel": "风景系列\\关键词27.docx",
+    "ext": ".docx",
+    "bytes": 2043471,
+    "paragraphs": 2,
+    "tables": 1,
+    "chars": 8289
+  },
+  {
+    "name": "关键词40.xls",
+    "rel": "风景系列\\关键词40.xls",
+    "ext": ".xls",
+    "bytes": 71129600,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "关键词84.xls",
+    "rel": "风景系列\\关键词84.xls",
+    "ext": ".xls",
+    "bytes": 76467712,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "关键词99.xls",
+    "rel": "风景系列\\关键词99.xls",
+    "ext": ".xls",
+    "bytes": 117164032,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "星空极光荧光海系列9.xls",
+    "rel": "风景系列\\星空极光荧光海系列9.xls",
+    "ext": ".xls",
+    "bytes": 41620480,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "热门狗熊岭系列9.xls",
+    "rel": "风景系列\\热门狗熊岭系列9.xls",
+    "ext": ".xls",
+    "bytes": 12043264,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "训练Chatgpt.doc",
+    "rel": "风景系列\\训练Chatgpt.doc",
+    "ext": ".doc",
+    "bytes": 75776,
+    "note": "legacy Office format copied but not text-extracted in this pass",
+    "chars": 0
+  },
+  {
+    "name": "（仿真人）人物，道具，场景提取.txt",
+    "rel": "（仿真人）人物，道具，场景提取.txt",
+    "ext": ".txt",
+    "bytes": 10725,
+    "encoding": "utf-8-sig",
+    "chars": 3906
+  }
+]

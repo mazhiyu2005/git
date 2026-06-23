@@ -1,0 +1,7 @@
+interface:
+  display_name: "写小说"
+  short_description: "规划、续写、改稿并管理中文小说项目。"
+  default_prompt: "Use $write-novel to plan, draft, or revise a Chinese novel chapter."
+
+policy:
+  allow_implicit_invocation: true

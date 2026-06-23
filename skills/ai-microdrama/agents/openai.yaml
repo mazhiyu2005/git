@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI漫剧制作"
+  short_description: "AI短剧/漫剧脚本、分镜、提示词与一致性工作流。"
+  default_prompt: "Use $ai-microdrama to turn my story idea into a complete AI microdrama production plan."

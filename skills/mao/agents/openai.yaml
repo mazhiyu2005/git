@@ -1,0 +1,4 @@
+interface:
+  display_name: "毛泽东方法论"
+  short_description: "用六层认知架构分析问题并学习毛选方法论"
+  default_prompt: "Use $mao to analyze this problem with Mao Zedong methodology, or guide me through original-text study of Mao's selected works."

@@ -96,6 +96,36 @@ Status values:
 - `待重讲`
 - `待核对`
 
+## Mind Map Format
+
+When the user asks for a mind map or says it must open with the Obsidian Mind Map plugin, use the same heading-only structure as the Bilibili route file.
+
+Rules:
+
+- Use only Markdown headings and blank lines.
+- Do not use ordinary body paragraphs.
+- Do not use lists, tables, code blocks, images, links, embeds, or blockquotes.
+- Every non-empty line must start with `#`.
+- Use `##` as the root heading, `###` as large branches, `####` as sub-branches, and `#####` as leaves.
+- Put the actual note text inside heading text, not below a heading.
+- Keep each heading short enough to display as a node.
+- If the user asks to include code in a Mind Map, put a complete short code snippet on one `#####` heading leaf, joined with semicolons or arrows. Do not split one snippet into many leaves unless the user asks for line-by-line code.
+- If a detailed summary is also useful, create a separate normal summary note; keep the Mind Map note heading-only.
+
+Template:
+
+```markdown
+## 知识主题
+
+### 大分支
+
+#### 小分支
+
+##### 叶子知识点
+
+##### 叶子知识点
+```
+
 ## Teaching Workflow
 
 For each node:
@@ -112,6 +142,7 @@ For each node:
 10. Minimal generation rule: when the user asks for only a lesson start, status change, one concept, one diagram, or one code snippet, write only that requested content. Do not proactively add full lesson sections, extra explanations, homework, examples, or summaries.
 11. Do not generate lesson title headings by default. When creating a lesson note, do not write `# DayXXX - course title` unless the user explicitly asks for a title. Use only header metadata and the requested content.
 12. When creating a lesson note, write the current generation time in the header, using `> 生成时间：YYYY-MM-DD HH:mm`.
+13. When the user says they finished a lesson, mark that lesson note as completed and let the desktop score widget recalculate points. Lesson points are based only on course progress, lesson difficulty, and lesson importance; do not score by code file count or note count.
 
 Daily lesson structure:
 
